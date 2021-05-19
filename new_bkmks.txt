@@ -1,465 +1,1618 @@
 Bookmarks Bar:
 
+	1. New Google Doc
+		http://doc.new/
 
--New Google Doc
+	2. Login - Purdue University System
+		https://purdue.brightspace.com/d2l/login
 
----http://doc.new/
--Login - Purdue University System
+	3. CS381 Kaltura
+		http://www.kaltura.com/tiny/jd56m
 
----https://purdue.brightspace.com/d2l/login
--CS381 Kaltura
+	4. CS381 PSO
+		https://purdue-edu.zoom.us/j/91742660170?pwd=UmJzdkk0Szh0M0R4a1F0Q3d1cnZYdz09#success
 
----http://www.kaltura.com/tiny/jd56m
--CS381 PSO
+	5. CS448 Zoom
+		https://purdue-edu.zoom.us/j/97952601096?pwd=T1paL1p6ZXFJYzMybEFGUjZCT2E2dz09#success
 
----https://purdue-edu.zoom.us/j/91742660170?pwd=UmJzdkk0Szh0M0R4a1F0Q3d1cnZYdz09#success
--CS448 Zoom
+	6. EAPS112 Zoom
+		https://purdue.webex.com/webappng/sites/purdue/dashboard/pmr/marie
 
----https://purdue-edu.zoom.us/j/97952601096?pwd=T1paL1p6ZXFJYzMybEFGUjZCT2E2dz09#success
--EAPS112 Zoom
+	7. Introduction to Algorithms, Third Edition
+		https://edutechlearners.com/download/Introduction_to_algorithms-3rd%20Edition.pdf#page=84
 
----https://purdue.webex.com/webappng/sites/purdue/dashboard/pmr/marie
--Introduction to Algorithms, Third Edition
+	8. Database System Concepts, Seventh Edition
+		file:///Users/shaadhussain/Downloads/Database-System-Concepts-7th-Edition.pdf
 
----https://edutechlearners.com/download/Introduction_to_algorithms-3rd%20Edition.pdf#page=84
--Database System Concepts, Seventh Edition
+	9. Grayslake (IL) Prayer Times (Namaz - Salah Time), Illinois, United States | IslamicFinder
+		https://www.islamicfinder.org/world/united-states/4894465/grayslake-prayer-times/
 
----file:///Users/shaadhussain/Downloads/Database-System-Concepts-7th-Edition.pdf
--Grayslake (IL) Prayer Times (Namaz - Salah Time), Illinois, United States | IslamicFinder
+	10. CS 44800: Introduction To Relational Database Systems
+		https://www.cs.purdue.edu/homes/clifton/cs44800/
 
----https://www.islamicfinder.org/world/united-states/4894465/grayslake-prayer-times/
--CS 44800: Introduction To Relational Database Systems
+	11. Beautiful Free Images &amp; Pictures | Unsplash
+		https://unsplash.com/
 
----https://www.cs.purdue.edu/homes/clifton/cs44800/
--Beautiful Free Images &amp; Pictures | Unsplash
+	12. Forty Hadith on Good Character | Faith in Allah
+		https://abuaminaelias.com/forty-hadith-on-good-character/
 
----https://unsplash.com/
--Forty Hadith on Good Character | Faith in Allah
+	13. Watch Avatar The Last Airbender Season 3 online free kisscartoon
+		https://kisscartoon.info/avatar-the-last-airbender-season-3/
 
----https://abuaminaelias.com/forty-hadith-on-good-character/
--Watch Avatar The Last Airbender Season 3 online free kisscartoon
+	14. The Definitive JL S2 CUT.mp4 - Google Drive
+		https://drive.google.com/file/d/1_3rn8PexdGlusQgrUbdSZ0ul0O_FB5-Y/view
 
----https://kisscartoon.info/avatar-the-last-airbender-season-3/
--The Definitive JL S2 CUT.mp4 - Google Drive
+	15. The World&#39;s Finest - Justice League
+		https://dcanimated.com/WF/jl/releases/
 
----https://drive.google.com/file/d/1_3rn8PexdGlusQgrUbdSZ0ul0O_FB5-Y/view
--The World&#39;s Finest - Justice League
+	16. Common Misconceptions about Muslims | Encountering the World of Islam
+		https://www.encounteringislam.org/misconceptions#4
 
----https://dcanimated.com/WF/jl/releases/
--Common Misconceptions about Muslims | Encountering the World of Islam
+	17. Get Answers. Get Hired. | Jumpstart
+		https://jumpstart.me/
 
----https://www.encounteringislam.org/misconceptions#4
--Get Answers. Get Hired. | Jumpstart
+	18. Remote Work for Students
+		https://remotestudents.co/
 
----https://jumpstart.me/
--Remote Work for Students
+	19. Easy Coding Interview Questions - Byte by Byte
+		https://www.byte-by-byte.com/tag/easy/
 
----https://remotestudents.co/
--Easy Coding Interview Questions - Byte by Byte
+	20. Muhammed Hijab – A Debater and Public Speaker
+		https://www.kbyh.co.uk/
 
----https://www.byte-by-byte.com/tag/easy/
--Muhammed Hijab – A Debater and Public Speaker
+	21. Open P-TECH - P-TECH.org
+		https://www.ptech.org/open-p-tech/?_ga=2.180412711.1885187452.1588798916-1682791538.1534778961
 
----https://www.kbyh.co.uk/
--Open P-TECH - P-TECH.org
+	22. londonappbrewery/Flutter-Course-Resources: Learn to Code While Building Apps - The Complete Flutter Development Bootcamp
+		https://github.com/londonappbrewery/Flutter-Course-Resources/
 
----https://www.ptech.org/open-p-tech/?_ga=2.180412711.1885187452.1588798916-1682791538.1534778961
--londonappbrewery/Flutter-Course-Resources: Learn to Code While Building Apps - The Complete Flutter Development Bootcamp
+	23. Cracking the Coding Interview, 6th Edition 189 Programming Questions and Solutions.pdf
+		file:///Users/shaadhussain/Downloads/Cracking%20the%20Coding%20Interview,%206th%20Edition%20189%20Programming%20Questions%20and%20Solutions.pdf
 
----https://github.com/londonappbrewery/Flutter-Course-Resources/
--Cracking the Coding Interview, 6th Edition 189 Programming Questions and Solutions.pdf
+	24. Books-1/Cracking the Coding Interview, 6th Edition 189 Programming Questions and Solutions.pdf at master · alxerg/Books-1
+		https://github.com/alxerg/Books-1/blob/master/Cracking%20the%20Coding%20Interview%2C%206th%20Edition%20189%20Programming%20Questions%20and%20Solutions.pdf
 
----file:///Users/shaadhussain/Downloads/Cracking%20the%20Coding%20Interview,%206th%20Edition%20189%20Programming%20Questions%20and%20Solutions.pdf
--Books-1/Cracking the Coding Interview, 6th Edition 189 Programming Questions and Solutions.pdf at master · alxerg/Books-1
+	25. reedbarger/fluttershare: Starting code for the course: Build a Social Network with Flutter and Firebase
+		https://github.com/reedbarger/fluttershare
 
----https://github.com/alxerg/Books-1/blob/master/Cracking%20the%20Coding%20Interview%2C%206th%20Edition%20189%20Programming%20Questions%20and%20Solutions.pdf
--reedbarger/fluttershare: Starting code for the course: Build a Social Network with Flutter and Firebase
+	26. Nu School Directory - Universe
+		https://airtable.com/universe/exphFSlT9k9w4Hvb7/nu-school-directory
 
----https://github.com/reedbarger/fluttershare
--Nu School Directory - Universe
+	27. FROM 0 TO 100
+		http://igorvoitenko.com/from0to100
 
----https://airtable.com/universe/exphFSlT9k9w4Hvb7/nu-school-directory
--FROM 0 TO 100
+	28. Job Details | Textron
+		https://www.textron.com/job-details
 
----http://igorvoitenko.com/from0to100
--Job Details | Textron
+	29. Getting Started with Coding Interviews - Byte by Byte
+		https://www.byte-by-byte.com/coding-interview-101/
 
----https://www.textron.com/job-details
--Getting Started with Coding Interviews - Byte by Byte
+	30. Why I studied full-time for 8 months for a Google interview
+		https://www.freecodecamp.org/news/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13/
 
----https://www.byte-by-byte.com/coding-interview-101/
--Why I studied full-time for 8 months for a Google interview
+	31. How To Ace Your Behavioral Interview - Simple Programmer
+		https://simpleprogrammer.com/ace-behavioral-interview/
 
----https://www.freecodecamp.org/news/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13/
--How To Ace Your Behavioral Interview - Simple Programmer
+	32. ek ladki ko dekha lyrics english - Google Search
+		https://www.google.com/search?rlz=1C5CHFA_enUS810US810&sxsrf=ALeKk03PesM6tPLjqZ1hGvQxsbVlgkpvdw%3A1601170870198&ei=tu1vX5TNC8HesAXM8q-ICQ&q=ek+ladki+ko+dekha+lyrics+english&oq=aik+larki+ko+dekha+lyrics+&gs_lcp=CgZwc3ktYWIQARgDMgIIADIICAAQFhAKEB4yCAgAEBYQChAeMggIABAWEAoQHjIICAAQFhAKEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeOgQIABBHSgUIIBIBMEoFCCgSATBQtBVYtBVgrR5oAHACeACAAdUBiAHVAZIBAzItMZgBAKABAaoBB2d3cy13aXrIAQjAAQE&sclient=psy-ab
 
----https://simpleprogrammer.com/ace-behavioral-interview/
--ek ladki ko dekha lyrics english - Google Search
+	33. lbry.tv
+		https://lbry.tv/
 
----https://www.google.com/search?rlz=1C5CHFA_enUS810US810&sxsrf=ALeKk03PesM6tPLjqZ1hGvQxsbVlgkpvdw%3A1601170870198&ei=tu1vX5TNC8HesAXM8q-ICQ&q=ek+ladki+ko+dekha+lyrics+english&oq=aik+larki+ko+dekha+lyrics+&gs_lcp=CgZwc3ktYWIQARgDMgIIADIICAAQFhAKEB4yCAgAEBYQChAeMggIABAWEAoQHjIICAAQFhAKEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeOgQIABBHSgUIIBIBMEoFCCgSATBQtBVYtBVgrR5oAHACeACAAdUBiAHVAZIBAzItMZgBAKABAaoBB2d3cy13aXrIAQjAAQE&sclient=psy-ab
--lbry.tv
+	34. What’s Wrong with Homosexuality? #LGBTQ vs. #Islam || The Hot Seat Podcast | Listen Notes
+		https://www.listennotes.com/podcasts/al-madrasatu-al/whats-wrong-with-90BuLDSy7Mw/amp/
 
----https://lbry.tv/
--What’s Wrong with Homosexuality? #LGBTQ vs. #Islam || The Hot Seat Podcast | Listen Notes
+	35. Greenhouse APIs | Greenhouse
+		https://www.greenhouse.io/api
 
----https://www.listennotes.com/podcasts/al-madrasatu-al/whats-wrong-with-90BuLDSy7Mw/amp/
--Greenhouse APIs | Greenhouse
+	36. shell - How do I copy a folder from remote to local using scp? - Stack Overflow
+		https://stackoverflow.com/questions/11304895/how-do-i-copy-a-folder-from-remote-to-local-using-scp
 
----https://www.greenhouse.io/api
--shell - How do I copy a folder from remote to local using scp? - Stack Overflow
+	37. C.G. Jung Quote: “Until you make the unconscious conscious, it will direct your life and you will call it fate.” | Psychology quotes, Psychology facts, Life
+		https://www.pinterest.com/pin/235172411779370393/#:~:text=More%20information-,C.G.%20Jung%20Quote%3A%20%E2%80%9CUntil%20you%20make%20the%20unconscious%20conscious%2C,you%20will%20call%20it%20fate.%E2%80%9D
 
----https://stackoverflow.com/questions/11304895/how-do-i-copy-a-folder-from-remote-to-local-using-scp
--C.G. Jung Quote: “Until you make the unconscious conscious, it will direct your life and you will call it fate.” | Psychology quotes, Psychology facts, Life
+	38. Quick Rejoinders to Atheist One Liners | The Muslim Theist
+		http://themuslimtheist.com/quick-rejoinders-to-atheist-one-liners/
 
----https://www.pinterest.com/pin/235172411779370393/#:~:text=More%20information-,C.G.%20Jung%20Quote%3A%20%E2%80%9CUntil%20you%20make%20the%20unconscious%20conscious%2C,you%20will%20call%20it%20fate.%E2%80%9D
--Quick Rejoinders to Atheist One Liners | The Muslim Theist
+	39. Create a palette - Coolors
+		https://coolors.co/f0a202-f18805-3c91e6-2b4162-d6c3c9
 
----http://themuslimtheist.com/quick-rejoinders-to-atheist-one-liners/
--Create a palette - Coolors
+	40. Protect This House - AlMaghrib Online
+		https://www.almaghrib.online/
 
----https://coolors.co/f0a202-f18805-3c91e6-2b4162-d6c3c9
--Protect This House - AlMaghrib Online
+	41. Why I’m donating $150k to freeCodeCamp to help fund their advanced math &amp; machine learning curriculum | by Darrell Silver | Feb, 2021 | Medium
+		https://darrellsilver.medium.com/why-im-donating-150k-to-freecodecamp-to-help-fund-their-next-big-curriculum-ffb7ff4ae828
 
----https://www.almaghrib.online/
--Why I’m donating $150k to freeCodeCamp to help fund their advanced math &amp; machine learning curriculum | by Darrell Silver | Feb, 2021 | Medium
+	42. Volunteer - OLIO
+		https://olioex.com/get-involved/volunteer/
 
----https://darrellsilver.medium.com/why-im-donating-150k-to-freecodecamp-to-help-fund-their-next-big-curriculum-ffb7ff4ae828
--Volunteer - OLIO
+	43. Meet for MMUSA
+		https://meet.google.com/rif-ihru-ahg
 
----https://olioex.com/get-involved/volunteer/
--Meet for MMUSA
+	44. 💬1 - Private StackShare for Teams - enterprise collaboration for technology decisions
+		https://stackshare.io/private
 
----https://meet.google.com/rif-ihru-ahg
--💬1 - Private StackShare for Teams - enterprise collaboration for technology decisions
-
----https://stackshare.io/private
 Reading:
 
+	1. Who-Wants-the-Caliphate.pdf
+		https://cdn2.hubspot.net/hubfs/4713562/Website-Paper-PDFs/Who-Wants-the-Caliphate.pdf#page=19
 
--Who-Wants-the-Caliphate.pdf
+	2. Keys to Tadabbur: How to Reflect Deeply on the Qur’an | Yaqeen Institute for Islamic Research
+		https://yaqeeninstitute.org/yousef-wahb/keys-to-tadabbur-how-to-reflect-deeply-on-the-quran?utm_campaign=later-linkinbio-yaqeeninstitute&utm_content=later-16569849&utm_medium=social&utm_source=instagram#ftnt2
 
----https://cdn2.hubspot.net/hubfs/4713562/Website-Paper-PDFs/Who-Wants-the-Caliphate.pdf#page=19
--Keys to Tadabbur: How to Reflect Deeply on the Qur’an | Yaqeen Institute for Islamic Research
+	3. Quran30for30_Ebook.pdf
+		file:///Users/shaadhussain/Downloads/Quran30for30_Ebook.pdf#page=57
 
----https://yaqeeninstitute.org/yousef-wahb/keys-to-tadabbur-how-to-reflect-deeply-on-the-quran?utm_campaign=later-linkinbio-yaqeeninstitute&utm_content=later-16569849&utm_medium=social&utm_source=instagram#ftnt2
--Quran30for30_Ebook.pdf
+	4. sourabh-joshi/awesome-quincy-larson-emails: This repository is an archive of emails that are sent by the awesome Quincy Larson every week.
+		https://github.com/sourabh-joshi/awesome-quincy-larson-emails
 
----file:///Users/shaadhussain/Downloads/Quran30for30_Ebook.pdf#page=57
--sourabh-joshi/awesome-quincy-larson-emails: This repository is an archive of emails that are sent by the awesome Quincy Larson every week.
+	5. The Docker Handbook – 2021 Edition
+		https://www.freecodecamp.org/news/the-docker-handbook/
 
----https://github.com/sourabh-joshi/awesome-quincy-larson-emails
--The Docker Handbook – 2021 Edition
+	6. What is Fuzzing? Fuzz Testing Explained with Examples
+		https://www.freecodecamp.org/news/whats-fuzzing-fuzz-testing-explained/
 
----https://www.freecodecamp.org/news/the-docker-handbook/
--What is Fuzzing? Fuzz Testing Explained with Examples
+	7. Man arrested for discussing child&#39;s gender in court order violation
+		https://nypost.com/2021/03/18/man-arrested-for-discussing-childs-gender-in-court-order-violation/
 
----https://www.freecodecamp.org/news/whats-fuzzing-fuzz-testing-explained/
--Man arrested for discussing child&#39;s gender in court order violation
+	8. Omar Barham Fighting Cancer Fund: : Indiana University
+		https://www.cancer.iu.edu/Omar/
 
----https://nypost.com/2021/03/18/man-arrested-for-discussing-childs-gender-in-court-order-violation/
--Omar Barham Fighting Cancer Fund: : Indiana University
+	9. Blank W-4 Withholding Forms | Symmetry Software
+		https://www.symmetry.com/blank-w4-forms
 
----https://www.cancer.iu.edu/Omar/
--Blank W-4 Withholding Forms | Symmetry Software
+	10. DocumentViewer.jss
+		https://textron.taleo.net/careersection/DocumentViewer.jss?sealedRequestId=MXMJMmr_cEjqKd-VH1BcAxcNfFAucBnDk34VAIcCn-QLWmprOIBXuk03FZSAufmymOw4VPwArbDASisOvC1_d5NY35IJa-bt
 
----https://www.symmetry.com/blank-w4-forms
--DocumentViewer.jss
+	11. A Summary of Your Rights Under the Fair Credit Reporting Act
+		https://portal.talentwise.com/fcra/files/FCRA_Summary_of_Rights.pdf
 
----https://textron.taleo.net/careersection/DocumentViewer.jss?sealedRequestId=MXMJMmr_cEjqKd-VH1BcAxcNfFAucBnDk34VAIcCn-QLWmprOIBXuk03FZSAufmymOw4VPwArbDASisOvC1_d5NY35IJa-bt
--A Summary of Your Rights Under the Fair Credit Reporting Act
-
----https://portal.talentwise.com/fcra/files/FCRA_Summary_of_Rights.pdf
 Islam:
 
+	1. &#39;This Is Woke&#39;: The media outfit that&#39;s actually a UK counter-terror programme | Middle East Eye
+		https://www.middleeasteye.net/news/revealed-woke-media-outfit-thats-actually-uk-counterterror-programme
 
--&#39;This Is Woke&#39;: The media outfit that&#39;s actually a UK counter-terror programme | Middle East Eye
+	2. Many Prophets, One Message – A CALL TO THE TRUTH
+		https://www.manyprophetsonemessage.com/
 
----https://www.middleeasteye.net/news/revealed-woke-media-outfit-thats-actually-uk-counterterror-programme
--Many Prophets, One Message – A CALL TO THE TRUTH
+	3. 40onJustice Archives | Yaqeen Institute for Islamic Research
+		https://yaqeeninstitute.org/series/40onjustice/#.XQ66NJNKjOQ
 
----https://www.manyprophetsonemessage.com/
--40onJustice Archives | Yaqeen Institute for Islamic Research
+	4. Tafseer Ibn Kathir (English, 114 Surah&#39;s Complete)
+		https://archive.org/stream/TafseerIbnKathirenglish114SurahsComplete/112Ikhlas#mode/2up
 
----https://yaqeeninstitute.org/series/40onjustice/#.XQ66NJNKjOQ
--Tafseer Ibn Kathir (English, 114 Surah&#39;s Complete)
+	5. Halal Tube
+		https://www.halaltube.com/topic/backbiting#.XYefnpJKjOQ
 
----https://archive.org/stream/TafseerIbnKathirenglish114SurahsComplete/112Ikhlas#mode/2up
--Halal Tube
+	6. MuslimARC-InterEthnic-Study-2015.pdf - Google Drive
+		https://drive.google.com/file/d/0B1FIWBL0VageajZzYjE1WkpuNjQ/view
 
----https://www.halaltube.com/topic/backbiting#.XYefnpJKjOQ
--MuslimARC-InterEthnic-Study-2015.pdf - Google Drive
+	7. Home - SeekersGuidance
+		https://seekersguidance.org/
 
----https://drive.google.com/file/d/0B1FIWBL0VageajZzYjE1WkpuNjQ/view
--Home - SeekersGuidance
+	8. Confronting the Trials of Our Time - Between Extremism and Passivism | MuslimMatters.org
+		https://muslimmatters.org/2009/01/01/confronting-the-trials-of-our-time-between-extremism-and-passivism/
 
----https://seekersguidance.org/
--Confronting the Trials of Our Time - Between Extremism and Passivism | MuslimMatters.org
+	9. Understanding Atheism | Session 1 - YouTube
+		https://www.youtube.com/watch?v=NyAVl7RsEOs
 
----https://muslimmatters.org/2009/01/01/confronting-the-trials-of-our-time-between-extremism-and-passivism/
--Understanding Atheism | Session 1 - YouTube
+	10. The State of the Ummah: Causes that led to its Weakness and the Means of Rectification (eBook) – Abu Khadeejah : أبو خديجة
+		https://www.abukhadeejah.com/state-of-ummah-causes-of-weakness-means-of-rectification-ebook/
 
----https://www.youtube.com/watch?v=NyAVl7RsEOs
--The State of the Ummah: Causes that led to its Weakness and the Means of Rectification (eBook) – Abu Khadeejah : أبو خديجة
+	11. The Illusion of Moral Progress – Traversing Tradition
+		https://traversingtradition.com/2020/10/19/the-illusion-of-moral-progress/
 
----https://www.abukhadeejah.com/state-of-ummah-causes-of-weakness-means-of-rectification-ebook/
--The Illusion of Moral Progress – Traversing Tradition
+	12. ISIS Are Not Islamic | Hamza Andreas Tzortzis
+		https://www.hamzatzortzis.com/isis-are-not-islamic/
 
----https://traversingtradition.com/2020/10/19/the-illusion-of-moral-progress/
--ISIS Are Not Islamic | Hamza Andreas Tzortzis
+	13. Timothy Winter: Britain&#39;s most influential Muslim - and it was all down to a peach | The Independent
+		https://www.independent.co.uk/news/people/profiles/timothy-winter-britains-most-influential-muslim-and-it-was-all-down-to-a-peach-2057400.html
 
----https://www.hamzatzortzis.com/isis-are-not-islamic/
--Timothy Winter: Britain&#39;s most influential Muslim - and it was all down to a peach | The Independent
+	14. Ash-Shama&#39;il Al-Muhammadiyah - Sunnah.com - Sayings and Teachings of Prophet Muhammad (صلى الله عليه و سلم)
+		https://sunnah.com/shamail
 
----https://www.independent.co.uk/news/people/profiles/timothy-winter-britains-most-influential-muslim-and-it-was-all-down-to-a-peach-2057400.html
--Ash-Shama&#39;il Al-Muhammadiyah - Sunnah.com - Sayings and Teachings of Prophet Muhammad (صلى الله عليه و سلم)
+	15. Hadith - Zuhd - Sunan Ibn Majah - Sunnah.com - Sayings and Teachings of Prophet Muhammad (صلى الله عليه و سلم)
+		https://sunnah.com/urn/1292120
 
----https://sunnah.com/shamail
--Hadith - Zuhd - Sunan Ibn Majah - Sunnah.com - Sayings and Teachings of Prophet Muhammad (صلى الله عليه و سلم)
+	16. Seekers Arabic – SeekersGuidance
+		https://seekersguidance.org/seekers-arabic/
 
----https://sunnah.com/urn/1292120
--Seekers Arabic – SeekersGuidance
+	17. Defending Darwin from Hoodbhoy - Response to &#39;Corona — our debt to Darwin&#39;
+		https://www.subboorahmad.com/post/defending-darwin-from-hoodbuoy-response-to-corona-our-debt-to-darwin
 
----https://seekersguidance.org/seekers-arabic/
--Defending Darwin from Hoodbhoy - Response to &#39;Corona — our debt to Darwin&#39;
+	18. Bayyinah Institute
+		http://quranseminars.com/
 
----https://www.subboorahmad.com/post/defending-darwin-from-hoodbuoy-response-to-corona-our-debt-to-darwin
--Bayyinah Institute
+	19. Prepare for an interview
+		https://www.educative.io/prepare-for-interview
 
----http://quranseminars.com/
--Prepare for an interview
+	20. science | Asadullah Ali al-Andalusi
+		https://asadullahali.com/tag/science-2/
 
----https://www.educative.io/prepare-for-interview
--science | Asadullah Ali al-Andalusi
+	21. Frequently Asked Questions | The Smithsonian Institution&#39;s Human Origins Program
+		https://humanorigins.si.edu/education/frequently-asked-questions#:~:text=But%20humans%20are%20not%20descended,differently%20from%20that%20same%20ancestor.
 
----https://asadullahali.com/tag/science-2/
--Frequently Asked Questions | The Smithsonian Institution&#39;s Human Origins Program
+	22. Summary: A wife’s religious obligation to perform housework | Musa Furber
+		https://musafurber.com/2019/03/20/summary-a-wifes-religious-obligation-to-perform-housework/
 
----https://humanorigins.si.edu/education/frequently-asked-questions#:~:text=But%20humans%20are%20not%20descended,differently%20from%20that%20same%20ancestor.
--Summary: A wife’s religious obligation to perform housework | Musa Furber
+	23. Home | Ramadan Makers
+		https://www.ramadanmakers.com/
 
----https://musafurber.com/2019/03/20/summary-a-wifes-religious-obligation-to-perform-housework/
--Home | Ramadan Makers
+	24. Predestination and Seeking Forgiveness - SeekersGuidance
+		https://seekersguidance.org/answers/general-counsel/predestination-and-seeking-forgiveness/
 
----https://www.ramadanmakers.com/
--Predestination and Seeking Forgiveness - SeekersGuidance
+	25. Qur&#39;an Wiki - Learn, Study and Reflect
+		http://www.quran-wiki.com/
 
----https://seekersguidance.org/answers/general-counsel/predestination-and-seeking-forgiveness/
--Qur&#39;an Wiki - Learn, Study and Reflect
+	26. Contemplating Over The Qur&#39;an Has Prerequisites - Islam21c
+		https://www.islam21c.com/islamic-thought/contemplating-over-the-quran-has-prerequisites/
 
----http://www.quran-wiki.com/
--Contemplating Over The Qur&#39;an Has Prerequisites - Islam21c
+	27. The Quranic Arabic Corpus - Translation
+		http://corpus.quran.com/translation.jsp?chapter=6&verse=116
 
----https://www.islam21c.com/islamic-thought/contemplating-over-the-quran-has-prerequisites/
--The Quranic Arabic Corpus - Translation
+	28. Hadith - The Book of Miscellany - Riyad as-Salihin - Sunnah.com - Sayings and Teachings of Prophet Muhammad (صلى الله عليه و سلم)
+		https://sunnah.com/riyadussalihin:278
 
----http://corpus.quran.com/translation.jsp?chapter=6&verse=116
--Hadith - The Book of Miscellany - Riyad as-Salihin - Sunnah.com - Sayings and Teachings of Prophet Muhammad (صلى الله عليه و سلم)
+	29. PolitiFact | Ben Shapiro says a majority of Muslims are radicals
+		https://www.politifact.com/factchecks/2014/nov/05/ben-shapiro/shapiro-says-majority-muslims-are-radicals/
 
----https://sunnah.com/riyadussalihin:278
--PolitiFact | Ben Shapiro says a majority of Muslims are radicals
+	30. About Me
+		https://www.joebradford.net/about-me/
 
----https://www.politifact.com/factchecks/2014/nov/05/ben-shapiro/shapiro-says-majority-muslims-are-radicals/
--About Me
+	31. Boys Don’t Cry
+		https://www.joebradford.net/boys-dont-cry/
 
----https://www.joebradford.net/about-me/
--Boys Don’t Cry
+	32. Fathers: A Door of Paradise
+		https://www.joebradford.net/fathers-a-door-of-paradise/
 
----https://www.joebradford.net/boys-dont-cry/
--Fathers: A Door of Paradise
+	33. Zoya - Halal stock screening and investing made simple
+		https://zoya.finance/
 
----https://www.joebradford.net/fathers-a-door-of-paradise/
--Zoya - Halal stock screening and investing made simple
+	34. Islam Beautifies Culture | Yaqeen Institute for Islamic Research
+		https://yaqeeninstitute.org/muhammad-khalifa/islam-beautifies-culture-infographic
 
----https://zoya.finance/
--Islam Beautifies Culture | Yaqeen Institute for Islamic Research
+	35. Joint statement of Muslim Scholars &amp; Imams on LGBT row in schools - Islam21c
+		https://www.islam21c.com/editorials/joint-statement-of-muslim-scholars-imams-on-lgbt-row-in-schools/
 
----https://yaqeeninstitute.org/muhammad-khalifa/islam-beautifies-culture-infographic
--Joint statement of Muslim Scholars &amp; Imams on LGBT row in schools - Islam21c
+	36. Volunteer - Muhsen | Awareness | Accommodation | Acceptance
+		https://muhsen.org/volunteer/
 
----https://www.islam21c.com/editorials/joint-statement-of-muslim-scholars-imams-on-lgbt-row-in-schools/
--Volunteer - Muhsen | Awareness | Accommodation | Acceptance
+	37. The Development of a Dramatic Theme in the Story of Khubaib B. &#39;Adiyy and the Related Poems on JSTOR
+		https://www.jstor.org/stable/610486?seq=1
 
----https://muhsen.org/volunteer/
--The Development of a Dramatic Theme in the Story of Khubaib B. &#39;Adiyy and the Related Poems on JSTOR
+	38. Amazon.com : Cuhas Adjustable Dumbbell with Connecting Rod Dumbbell Weight Pair [Fast Delivery from The U.S.] (88) : Sports &amp; Outdoors
+		https://www.amazon.com/Cuhas-Adjustable-Dumbbell-Weight-Delivery/dp/B08P5GMB8L/ref=sr_1_13?crid=LT1KPNY1WXCU&dchild=1&keywords=dumbbells&qid=1607558449&sprefix=dumb%2Caps%2C191&sr=8-13
 
----https://www.jstor.org/stable/610486?seq=1
--Amazon.com : Cuhas Adjustable Dumbbell with Connecting Rod Dumbbell Weight Pair [Fast Delivery from The U.S.] (88) : Sports &amp; Outdoors
+	39. Sex Matters: Sex, Sunnah, and Love in the Ummah (MuslimMatters Special Collection): MuslimMatters, Qadhi, Yasir, Nadwi, Muhammad Akram, Birjas, Yaser, Ibrahim, Yahya, Suleiman, Omar, Bint Younus, Zainab, Masood, Hiba, Ahmad, Abeda, Banani, Haleh: 9780578588018: Amazon.com: Books
+		https://www.amazon.com/Sex-Matters-MuslimMatters-Special-Collection/dp/0578588013/ref=sr_1_1?dchild=1&keywords=sex+matters+islam&qid=1607570650&sr=8-1
 
----https://www.amazon.com/Cuhas-Adjustable-Dumbbell-Weight-Delivery/dp/B08P5GMB8L/ref=sr_1_13?crid=LT1KPNY1WXCU&dchild=1&keywords=dumbbells&qid=1607558449&sprefix=dumb%2Caps%2C191&sr=8-13
--Sex Matters: Sex, Sunnah, and Love in the Ummah (MuslimMatters Special Collection): MuslimMatters, Qadhi, Yasir, Nadwi, Muhammad Akram, Birjas, Yaser, Ibrahim, Yahya, Suleiman, Omar, Bint Younus, Zainab, Masood, Hiba, Ahmad, Abeda, Banani, Haleh: 9780578588018: Amazon.com: Books
+	40. Why Boycotting France is the Wrong Response | MuslimMatters.org
+		https://muslimmatters.org/2020/11/04/why-boycotting-france-is-the-wrong-response/
 
----https://www.amazon.com/Sex-Matters-MuslimMatters-Special-Collection/dp/0578588013/ref=sr_1_1?dchild=1&keywords=sex+matters+islam&qid=1607570650&sr=8-1
--Why Boycotting France is the Wrong Response | MuslimMatters.org
+	41. Marriage | MuslimMatters.org
+		https://muslimmatters.org/marriage/
 
----https://muslimmatters.org/2020/11/04/why-boycotting-france-is-the-wrong-response/
--Marriage | MuslimMatters.org
+	42. Darwinism as Religion: What Literature Tells Us about Evolution - Oxford Scholarship
+		https://oxford.universitypressscholarship.com/view/10.1093/acprof:oso/9780190241025.001.0001/acprof-9780190241025#:~:text=More-,Through%20the%20lens%20of%20poetry%20and%20fiction%2C%20Darwinism%20as%20Religion,science%20and%20more%20one%20of
 
----https://muslimmatters.org/marriage/
--Darwinism as Religion: What Literature Tells Us about Evolution - Oxford Scholarship
+	43. I am Quincy Larson, founder of freeCodeCamp.org - the community where millions of people are learning to code together for free. Ask me anything! : IAmA
+		https://www.reddit.com/r/IAmA/comments/a5tn5r/i_am_quincy_larson_founder_of_freecodecamporg_the/
 
----https://oxford.universitypressscholarship.com/view/10.1093/acprof:oso/9780190241025.001.0001/acprof-9780190241025#:~:text=More-,Through%20the%20lens%20of%20poetry%20and%20fiction%2C%20Darwinism%20as%20Religion,science%20and%20more%20one%20of
--I am Quincy Larson, founder of freeCodeCamp.org - the community where millions of people are learning to code together for free. Ask me anything! : IAmA
+	44. My sincere Advice to Women by Umm Abdillah al-Waadiyyah
+		https://darussalam.com/my-sincere-advice-to-women-by-umm-abdillah-al-waadiyyah/
 
----https://www.reddit.com/r/IAmA/comments/a5tn5r/i_am_quincy_larson_founder_of_freecodecamporg_the/
--My sincere Advice to Women by Umm Abdillah al-Waadiyyah
+	45. Podcast: How NOT to Talk to New Muslims | Shaykh Abdullah Oduro | MuslimMatters.org
+		https://muslimmatters.org/2020/12/14/podcast-how-not-to-talk-to-new-muslims-shaykh-abdullah-oduro/
 
----https://darussalam.com/my-sincere-advice-to-women-by-umm-abdillah-al-waadiyyah/
--Podcast: How NOT to Talk to New Muslims | Shaykh Abdullah Oduro | MuslimMatters.org
+	46. Podcast: Sex, Marriage, and Mutual Obligations in Islam | Ustadh Mukhtar Ba | MuslimMatters.org
+		https://muslimmatters.org/2020/12/01/podcast-sex-marriage-and-mutual-obligations-in-marriage-ustadh-mukhtar-ba/
 
----https://muslimmatters.org/2020/12/14/podcast-how-not-to-talk-to-new-muslims-shaykh-abdullah-oduro/
--Podcast: Sex, Marriage, and Mutual Obligations in Islam | Ustadh Mukhtar Ba | MuslimMatters.org
+	47. Does A Muslim Have To Wish Well For An Oppressor Who Is Struck With Disease? | MuslimMatters.org
+		https://muslimmatters.org/2020/10/06/does-a-muslim-have-to-wish-well-for-an-oppressor-who-is-struck-with-disease/
 
----https://muslimmatters.org/2020/12/01/podcast-sex-marriage-and-mutual-obligations-in-marriage-ustadh-mukhtar-ba/
--Does A Muslim Have To Wish Well For An Oppressor Who Is Struck With Disease? | MuslimMatters.org
+	48. Closing Mosques – Islamic Justifications for Coronavirus Lockdowns | MuslimMatters.org
+		https://muslimmatters.org/2020/04/14/closing-mosques-islamic-justifications-for-coronavirus-lockdowns/
 
----https://muslimmatters.org/2020/10/06/does-a-muslim-have-to-wish-well-for-an-oppressor-who-is-struck-with-disease/
--Closing Mosques – Islamic Justifications for Coronavirus Lockdowns | MuslimMatters.org
+	49. Scholars vs Sultans - Islam21c
+		https://www.islam21c.com/islamic-thought/history/scholars-vs-sultans/
 
----https://muslimmatters.org/2020/04/14/closing-mosques-islamic-justifications-for-coronavirus-lockdowns/
--Scholars vs Sultans - Islam21c
+	50. Top Ten Pieces of Advice to My 20-Year-Old Self - Islam21c
+		https://www.islam21c.com/islamic-thought/top-ten-pieces-of-advice-to-my-20-year-old-self/
 
----https://www.islam21c.com/islamic-thought/history/scholars-vs-sultans/
--Top Ten Pieces of Advice to My 20-Year-Old Self - Islam21c
+	51. A Note on Understanding Islam:Liberalism’s Origins &amp; the Superimposition of a Specific European Experience - Islam21c
+		https://www.islam21c.com/islamic-thought/a-note-on-understanding-islamliberalisms-origins-a-the-superimposition-of-a-specific-european-experience/
 
----https://www.islam21c.com/islamic-thought/top-ten-pieces-of-advice-to-my-20-year-old-self/
--A Note on Understanding Islam:Liberalism’s Origins &amp; the Superimposition of a Specific European Experience - Islam21c
+	52. Ali Jaber - علي جابر - Holy Quran on Assabile
+		http://www.assabile.com/ali-jaber-28/ali-jaber.htm
 
----https://www.islam21c.com/islamic-thought/a-note-on-understanding-islamliberalisms-origins-a-the-superimposition-of-a-specific-european-experience/
--Ali Jaber - علي جابر - Holy Quran on Assabile
+	53. About Us – SALAM+
+		https://salamplus.co.uk/about-us/#
 
----http://www.assabile.com/ali-jaber-28/ali-jaber.htm
--About Us – SALAM+
+	54. The Quran and the Orientalists | Kalamullah.Com
+		https://www.kalamullah.com/Books/The%20Quran%20and%20the%20Orientalists%20by%20Muhammad%20Mohar%20Ali.pdf
 
----https://salamplus.co.uk/about-us/#
--The Quran and the Orientalists | Kalamullah.Com
+	55. Kalamullah.Com | Ranks of the Divine Seekers (Madarij al-Salikin)
+		https://www.kalamullah.com/madarij-al-salikin.html
 
----https://www.kalamullah.com/Books/The%20Quran%20and%20the%20Orientalists%20by%20Muhammad%20Mohar%20Ali.pdf
--Kalamullah.Com | Ranks of the Divine Seekers (Madarij al-Salikin)
+	56. https://ia800301.us.archive.org/16/items/TheFoundationsOfTheKnowledgeOfUsool/The_Foundations_Of_The_Knowledge_Of_Usool.pdf
+		https://ia800301.us.archive.org/16/items/TheFoundationsOfTheKnowledgeOfUsool/The_Foundations_Of_The_Knowledge_Of_Usool.pdf
 
----https://www.kalamullah.com/madarij-al-salikin.html
--https://ia800301.us.archive.org/16/items/TheFoundationsOfTheKnowledgeOfUsool/The_Foundations_Of_The_Knowledge_Of_Usool.pdf
+	57. Kalamullah.Com | Hadith
+		https://www.kalamullah.com/hadith.html
 
----https://ia800301.us.archive.org/16/items/TheFoundationsOfTheKnowledgeOfUsool/The_Foundations_Of_The_Knowledge_Of_Usool.pdf
--Kalamullah.Com | Hadith
+	58. Hadith - The Book of Virtues - Sahih Muslim - Sunnah.com - Sayings and Teachings of Prophet Muhammad (صلى الله عليه و سلم)
+		https://sunnah.com/urn/257340
 
----https://www.kalamullah.com/hadith.html
--Hadith - The Book of Virtues - Sahih Muslim - Sunnah.com - Sayings and Teachings of Prophet Muhammad (صلى الله عليه و سلم)
+	59. Servants Of The All-Merciful: Understanding the Qualities of True Servants of Allah - SeekersGuidance
+		https://seekersguidance.org/courses/servants-of-the-all-merciful-understanding-the-qualities-of-true-servants-of-allah/
 
----https://sunnah.com/urn/257340
--Servants Of The All-Merciful: Understanding the Qualities of True Servants of Allah - SeekersGuidance
+	60. An Introduction to the Science of Hadith | Kalamullah.Com
+		https://www.kalamullah.com/Books/An%20Introduction%20to%20the%20Science%20of%20Hadith.pdf?__cf_chl_jschl_tk__=73590c90d4848c6a6b1a3ce1758ce0412175344e-1609302607-0-Af8kiIa3b9TQNzbwGQ_lO6RVcuqNPnDMZVWboL7aYPlXWG4e1QfzIuWUADQlPzNLZhcCTRxlCg2VDOukTs7YasPdeuz-7Yo9OtFBO5JZCaSbXVAtl5Sc-tAD0NwAlSB13vGrN4vuL8Ye921faFllWwCD3ucVWiU9WupyEui5AxdWh6y3cHq4D-rNLw9Ma__Lbh_mhBEtCkb6dE6DXZcIjkHh8ubaUbd1-eiD0B0kQsNWOxX01irHztmHy0UpnjHHcUY2S3IX4Hbb62ZwOZRqQdWH7J7OKI7zC3S3E_zxQL_E3OZD5Ftt8w1goLwf_CJW63j8-NuoFfyNxsrxdyQjU6Ogq2WVHM0P6DAFUot6sOipZgr_QDlpaqvwD-P7QP0eIZRjNaw-JfK0eTi04ts7Lxk
 
----https://seekersguidance.org/courses/servants-of-the-all-merciful-understanding-the-qualities-of-true-servants-of-allah/
--An Introduction to the Science of Hadith | Kalamullah.Com
+	61. Hadith - Merits of the Helpers in Madinah (Ansaar) - Sahih al-Bukhari - Sunnah.com - Sayings and Teachings of Prophet Muhammad (صلى الله عليه و سلم)
+		https://sunnah.com/bukhari/63/61
 
----https://www.kalamullah.com/Books/An%20Introduction%20to%20the%20Science%20of%20Hadith.pdf?__cf_chl_jschl_tk__=73590c90d4848c6a6b1a3ce1758ce0412175344e-1609302607-0-Af8kiIa3b9TQNzbwGQ_lO6RVcuqNPnDMZVWboL7aYPlXWG4e1QfzIuWUADQlPzNLZhcCTRxlCg2VDOukTs7YasPdeuz-7Yo9OtFBO5JZCaSbXVAtl5Sc-tAD0NwAlSB13vGrN4vuL8Ye921faFllWwCD3ucVWiU9WupyEui5AxdWh6y3cHq4D-rNLw9Ma__Lbh_mhBEtCkb6dE6DXZcIjkHh8ubaUbd1-eiD0B0kQsNWOxX01irHztmHy0UpnjHHcUY2S3IX4Hbb62ZwOZRqQdWH7J7OKI7zC3S3E_zxQL_E3OZD5Ftt8w1goLwf_CJW63j8-NuoFfyNxsrxdyQjU6Ogq2WVHM0P6DAFUot6sOipZgr_QDlpaqvwD-P7QP0eIZRjNaw-JfK0eTi04ts7Lxk
--Hadith - Merits of the Helpers in Madinah (Ansaar) - Sahih al-Bukhari - Sunnah.com - Sayings and Teachings of Prophet Muhammad (صلى الله عليه و سلم)
+	62. Tony Stark 🧬🇹🇩 on Twitter: &quot;Moreover, the effectiveness of capital punishments in the Shari&#39;a law can be verified statistically. Statistics tell us that the crime rates in the Shari&#39;a societies is 100x less than that in the atheistic-secular societies. https://t.co/xKIjEFfpkK&quot; / Twitter
+		https://twitter.com/HighInteIlect/status/1345269447116787712
 
----https://sunnah.com/bukhari/63/61
--Tony Stark 🧬🇹🇩 on Twitter: &quot;Moreover, the effectiveness of capital punishments in the Shari&#39;a law can be verified statistically. Statistics tell us that the crime rates in the Shari&#39;a societies is 100x less than that in the atheistic-secular societies. https://t.co/xKIjEFfpkK&quot; / Twitter
+	63. No, Shari&#39;ah Law Is Not Compatible With Western Values
+		https://www.forbes.com/sites/realspin/2016/10/06/no-shariah-law-is-not-compatible-with-western-values/?sh=1a1f6f545eb3
 
----https://twitter.com/HighInteIlect/status/1345269447116787712
--No, Shari&#39;ah Law Is Not Compatible With Western Values
+	64. Amazon.com : muhammad man and prophet
+		https://www.amazon.com/s?k=muhammad+man+and+prophet&crid=264F1VHTTNA0B&sprefix=muhammad+man+and+%2Caps%2C174&ref=nb_sb_ss_ts-doa-p_1_17
 
----https://www.forbes.com/sites/realspin/2016/10/06/no-shariah-law-is-not-compatible-with-western-values/?sh=1a1f6f545eb3
--Amazon.com : muhammad man and prophet
+	65. Team – Thinkbites
+		https://thinkbites.org/team/
 
----https://www.amazon.com/s?k=muhammad+man+and+prophet&crid=264F1VHTTNA0B&sprefix=muhammad+man+and+%2Caps%2C174&ref=nb_sb_ss_ts-doa-p_1_17
--Team – Thinkbites
+	66. Imaam Ibn al-Qayyim&#39;s Beautiful Description of Paradise
+		https://idealmuslimah.com/the-hereafter/paradise/2422-imaam-ibn-al-qayyims-beautiful-description-of-paradise.html
 
----https://thinkbites.org/team/
--Imaam Ibn al-Qayyim&#39;s Beautiful Description of Paradise
+	67. China announces ratification of extradition treaty with Turkey
+		https://www.france24.com/en/asia-pacific/20201228-china-announces-ratification-of-extradition-treaty-with-turkey
 
----https://idealmuslimah.com/the-hereafter/paradise/2422-imaam-ibn-al-qayyims-beautiful-description-of-paradise.html
--China announces ratification of extradition treaty with Turkey
+	68. final draft 10.cdr
+		https://ayaaninstitute.com/wp-content/uploads/2021/01/Creating-a-new-Civilisation-of-Islam.pdf
 
----https://www.france24.com/en/asia-pacific/20201228-china-announces-ratification-of-extradition-treaty-with-turkey
--final draft 10.cdr
+	69. Unmasking Western Modernity: Farangism Studies - Islam21c
+		https://www.islam21c.com/islamic-thought/unmasking-western-modernity-farangism-studies/
 
----https://ayaaninstitute.com/wp-content/uploads/2021/01/Creating-a-new-Civilisation-of-Islam.pdf
--Unmasking Western Modernity: Farangism Studies - Islam21c
+	70. Cuties on Netflix: Twerking towards Corporate Paedophilia - Islam21c
+		https://www.islam21c.com/islamic-thought/propagation/women/cuties-on-netflix-twerking-towards-corporate-paedophilia/
 
----https://www.islam21c.com/islamic-thought/unmasking-western-modernity-farangism-studies/
--Cuties on Netflix: Twerking towards Corporate Paedophilia - Islam21c
+	71. Hadith on Love: Those who love for Allah are admired in Paradise
+		https://abuaminaelias.com/dailyhadithonline/2013/05/02/admired-prophets-martyrs/
 
----https://www.islam21c.com/islamic-thought/propagation/women/cuties-on-netflix-twerking-towards-corporate-paedophilia/
--Hadith on Love: Those who love for Allah are admired in Paradise
+	72. تحفيظ القرآن الكريم | المصحف المحفظ بالقراءات العشر
+		https://www.nquran.com/ar/quranplayer/
 
----https://abuaminaelias.com/dailyhadithonline/2013/05/02/admired-prophets-martyrs/
--تحفيظ القرآن الكريم | المصحف المحفظ بالقراءات العشر
+	73. The Top Six Mistakes in Usul | Virtual Mosque
+		http://www.virtualmosque.com/islam-studies/islamic-law/the-top-six-mistakes-in-usul/
 
----https://www.nquran.com/ar/quranplayer/
--The Top Six Mistakes in Usul | Virtual Mosque
+	74. Rounded Up: Artificial Terrorists and Muslim Entrapment After 9/11: Shamshad Ahmad: 9781935534174: Amazon.com: Books
+		https://www.amazon.com/Rounded-Up-Artificial-Terrorists-Entrapment/dp/1935534173
 
----http://www.virtualmosque.com/islam-studies/islamic-law/the-top-six-mistakes-in-usul/
--Rounded Up: Artificial Terrorists and Muslim Entrapment After 9/11: Shamshad Ahmad: 9781935534174: Amazon.com: Books
+	75. Albany mosque co-founder Shamshad Ahmad remembered as community pillar and bridge
+		https://www.timesunion.com/news/article/Albany-mosque-founder-Shamshad-Ahmad-dies-14087938.php#photo-17838522
 
----https://www.amazon.com/Rounded-Up-Artificial-Terrorists-Entrapment/dp/1935534173
--Albany mosque co-founder Shamshad Ahmad remembered as community pillar and bridge
+	76. Who Shoulders the Burden of Proof? Reformed Epistemology &amp; Properly-Basic Islamic Belief – Sapience Institute
+		https://sapienceinstitute.org/who-shoulders-the-burden-of-proof-reformed-epistemology-and-properly-basic-islamic-belief/
 
----https://www.timesunion.com/news/article/Albany-mosque-founder-Shamshad-Ahmad-dies-14087938.php#photo-17838522
--Who Shoulders the Burden of Proof? Reformed Epistemology &amp; Properly-Basic Islamic Belief – Sapience Institute
+	77. FINAL-The-Power-of-Motivation_-Spiritual-Psychology-Series-3.pdf
+		https://cdn2.hubspot.net/hubfs/4713562/Website-Paper-PDFs/FINAL-The-Power-of-Motivation_-Spiritual-Psychology-Series-3.pdf
 
----https://sapienceinstitute.org/who-shoulders-the-burden-of-proof-reformed-epistemology-and-properly-basic-islamic-belief/
--FINAL-The-Power-of-Motivation_-Spiritual-Psychology-Series-3.pdf
+	78. Hadith on Rights: Guarding rights of women, children, orphans
+		https://abuaminaelias.com/dailyhadithonline/2012/03/10/huquq-women-children-yatim/
 
----https://cdn2.hubspot.net/hubfs/4713562/Website-Paper-PDFs/FINAL-The-Power-of-Motivation_-Spiritual-Psychology-Series-3.pdf
--Hadith on Rights: Guarding rights of women, children, orphans
+	79. When the Moon Split New Edition (HB Full Color): Safi-ur-Rahman Mubarakpuri, Tabassum Siraj, Michael Richardson, Badr Azimabadi: 9786035000604: Amazon.com: Books
+		https://www.amazon.com/When-Moon-Split-Full-Color/dp/6035000606
 
----https://abuaminaelias.com/dailyhadithonline/2012/03/10/huquq-women-children-yatim/
--When the Moon Split New Edition (HB Full Color): Safi-ur-Rahman Mubarakpuri, Tabassum Siraj, Michael Richardson, Badr Azimabadi: 9786035000604: Amazon.com: Books
+	80. Gary Miller — The Mindful Muslim
+		https://themindfulmuslim.com/gary-miller
 
----https://www.amazon.com/When-Moon-Split-Full-Color/dp/6035000606
--Gary Miller — The Mindful Muslim
+	81. Facebook
+		https://www.facebook.com/CAIRNational/videos/1636793189838222
 
----https://themindfulmuslim.com/gary-miller
--Facebook
+	82. The Shura Principle in Islam – Muslims in Calgary
+		http://muslimsincalgary.ca/the-shura-principle-in-islam/
 
----https://www.facebook.com/CAIRNational/videos/1636793189838222
--The Shura Principle in Islam – Muslims in Calgary
+	83. Tarteel - Recite, Memorize, and Search the Quran
+		https://www.tarteel.io/
 
----http://muslimsincalgary.ca/the-shura-principle-in-islam/
--Tarteel - Recite, Memorize, and Search the Quran
+	84. Women Scholars: Some Qur’anic Reflections | Virtual Mosque
+		http://www.virtualmosque.com/islam-studies/sciences-of-quran-and-hadith/women-scholars-some-quranic-reflections/
 
----https://www.tarteel.io/
--Women Scholars: Some Qur’anic Reflections | Virtual Mosque
+	85. How to approach and understand the quran by abu alee - issuu
+		https://issuu.com/abu_alee/docs/how_to_approach_and_understand_the_
 
----http://www.virtualmosque.com/islam-studies/sciences-of-quran-and-hadith/women-scholars-some-quranic-reflections/
--How to approach and understand the quran by abu alee - issuu
+	86. OMyBelovedSon.pdf
+		file:///Users/shaadhussain/Downloads/OMyBelovedSon.pdf
 
----https://issuu.com/abu_alee/docs/how_to_approach_and_understand_the_
--OMyBelovedSon.pdf
+	87. Allah Loves... - Imam Omar Suleiman by Kube Publishing - issuu
+		https://issuu.com/kube_publishing/docs/allah_loves_-_issu
 
----file:///Users/shaadhussain/Downloads/OMyBelovedSon.pdf
--Allah Loves... - Imam Omar Suleiman by Kube Publishing - issuu
+	88. Have Charity Appeals made us War Photographers? - Islam21c
+		https://www.islam21c.com/ramadan-1441/have-charity-appeals-made-us-war-photographers/
 
----https://issuu.com/kube_publishing/docs/allah_loves_-_issu
--Have Charity Appeals made us War Photographers? - Islam21c
+	89. Tafsir.io - Collections of Verses
+		http://www.tafsir.io/collections
 
----https://www.islam21c.com/ramadan-1441/have-charity-appeals-made-us-war-photographers/
--Tafsir.io - Collections of Verses
+	90. The Noble Quran | Quran.com
+		https://quran.com/47:4/tafsirs/en-tafsir-maarif-ul-quran
 
----http://www.tafsir.io/collections
--The Noble Quran | Quran.com
+	91. From-a-Loving-Son-to-a-Loving-Father_full-book.pdf
+		file:///Users/shaadhussain/Downloads/From-a-Loving-Son-to-a-Loving-Father_full-book.pdf
 
----https://quran.com/47:4/tafsirs/en-tafsir-maarif-ul-quran
--From-a-Loving-Son-to-a-Loving-Father_full-book.pdf
-
----file:///Users/shaadhussain/Downloads/From-a-Loving-Son-to-a-Loving-Father_full-book.pdf
 Hadiths:
 
+	1. The reward of fifty Sahabah – Hadith Answers
+		https://hadithanswers.com/the-reward-of-fifty-sahabah/
 
--The reward of fifty Sahabah – Hadith Answers
+	2. Sahih al-Bukhari 6039 - Good Manners and Form (Al-Adab) - Sunnah.com - Sayings and Teachings of Prophet Muhammad (صلى الله عليه و سلم)
+		https://sunnah.com/bukhari/78/69
 
----https://hadithanswers.com/the-reward-of-fifty-sahabah/
--Sahih al-Bukhari 6039 - Good Manners and Form (Al-Adab) - Sunnah.com - Sayings and Teachings of Prophet Muhammad (صلى الله عليه و سلم)
+	3. Hadith on Qadr: The Prophet forbids arguing about providence
+		https://www.abuaminaelias.com/dailyhadithonline/2012/11/25/qadr-arguing-divine-decree/
 
----https://sunnah.com/bukhari/78/69
--Hadith on Qadr: The Prophet forbids arguing about providence
+	4. Hadith on Akhlaq: The Prophet teaches good character, manners
+		https://www.abuaminaelias.com/dailyhadithonline/2012/03/26/prophet-good-akhlaq-adab/
 
----https://www.abuaminaelias.com/dailyhadithonline/2012/11/25/qadr-arguing-divine-decree/
--Hadith on Akhlaq: The Prophet teaches good character, manners
+	5. Hadith on Repentance: Allah created people to forgive them
+		https://www.abuaminaelias.com/dailyhadithonline/2021/02/27/created-for-tawbah/
 
----https://www.abuaminaelias.com/dailyhadithonline/2012/03/26/prophet-good-akhlaq-adab/
--Hadith on Repentance: Allah created people to forgive them
+	6. Sunan an-Nasa&#39;i 1306 - The Book of Forgetfulness (In Prayer) - Sunnah.com - Sayings and Teachings of Prophet Muhammad (صلى الله عليه و سلم)
+		https://sunnah.com/nasai/13/128
 
----https://www.abuaminaelias.com/dailyhadithonline/2021/02/27/created-for-tawbah/
+	7. Help for Reverts (@helpforreverts) • Instagram photos and videos
+		https://www.instagram.com/p/CMh2fjcjGRe/
+
+	8. Hadith on Condemning: Overly judgmental Muslims are most astray
+		https://www.abuaminaelias.com/dailyhadithonline/2011/05/26/overly-judgmental-muslims/
+
+	9. Hadith on Friendliness: Best people are kind, benefit others
+		https://www.abuaminaelias.com/dailyhadithonline/2014/02/11/beat-people-kind-friendly-beneficial/
+
+	10. Hadith on Praise: The Prophet praises Allah in every situation
+		https://www.abuaminaelias.com/dailyhadithonline/2013/01/24/hamdulillah-ala-kul-hal/
+
+	11. Sahih al-Bukhari 6464 - To make the Heart Tender (Ar-Riqaq) - كتاب الرقاق - Sunnah.com - Sayings and Teachings of Prophet Muhammad (صلى الله عليه و سلم)
+		https://sunnah.com/bukhari:6464
+
+	12. r
+		https://www.youtube.com/watch?v=MfSftZvpHJg&list=WL&index=199
+
+	13. Hadith Book 31, Number 5890 on Umar Strength
+		https://www.iium.edu.my/deed/hadith/muslim/031_smt.html
+
+	14. Quran Academy
+		https://quranacademy.io/blog/how-to-treat-children-according-to-the-quran-and-sunnah/
+
+	15. Sahih Muslim 202 - The Book of Faith - كتاب الإيمان - Sunnah.com - Sayings and Teachings of Prophet Muhammad (صلى الله عليه و سلم)
+		https://sunnah.com/muslim:202
+
+	16. Hadith is a miguidance except for a Faqih
+		https://www.muftisays.com/blog/abu+mohammed/3251_25-02-2013/hadith-is-a-miguidance-except-for-a-faqih.html
+
+	17. Sufyan on Fiqh: Hadith cause misguidance, except for scholars of Fiqh
+		https://www.abuaminaelias.com/dailyhadithonline/2019/06/03/sufyan-hadith-misguide-fiqh/
+
+	18. Hadith on Sahaba: Companions had fun, showed courage in danger
+		https://www.abuaminaelias.com/dailyhadithonline/2019/06/03/sahabah-fun-showed-courage/
+
+	19. Tirmidh 3162 = Maryam 19:77
+		https://sunnah.com/tirmidhi/47
+
+Islam Sites:
+
+	1. Resources — Imam Ghazali Institute
+		https://www.imamghazali.org/resources
+
+	2. The Muslim Theist | Questions about God, Islam, and Spirituality
+		http://themuslimtheist.com/
+
+	3. Fatawa - Ideal length of the beard
+		https://www.dar-alifta.org/Foreign/ViewFatwa.aspx?ID=10774
+
+	4. Daily Wisdom: Selections from the Holy Qur&#39;an: Kidwai, Abdur Raheem: 8601200790085: Amazon.com: Books
+		https://www.amazon.com/Daily-Wisdom-Selections-Holy-Quran/dp/1847740324
+
+	5. Yaqeen Hadith 34
+		https://yaqeeninstitute.org/wp-content/uploads/2018/04/Yaqeen-Hadith-34.pdf
+
+Old Islam Stuff:
+
+	1. Islam and Science: Compatible or Incompatible? | About Islam
+		http://aboutislam.net/counseling/ask-about-islam/islam-and-science-compatible-or-incompatible/
+
+	2. The Preacher - D Magazine
+		https://www.dmagazine.com/publications/d-magazine/2017/july/the-preacher-imam-omar-suleiman/
+
+	3. Almadina مطعم المدينة - Restaurant in Lafayette
+		https://website-1365727491000633694221-restaurant.business.site/
+
+	4. Testimonials - Muslim Anti-Racism Collaborative
+		http://www.muslimarc.org/testimonials
+
+	5. #BlackInMSA: 10 Recommendations for Muslim Student Organizations - Muslim Anti-Racism Collaborative
+		http://www.muslimarc.org/blackinmsa10
+
+	6. #BlackInMSA
+		http://muslimgirl.com/16761/like-blackinmsa/
+
+	7. For Black Muslim students, a two-pronged fight for solidarity | PBS NewsHour
+		https://www.pbs.org/newshour/nation/black-muslim-college-students-issue-call-allies
+
+	8. Black Muslims account for a fifth of all U.S. Muslims | Pew Research Center
+		https://www.pewresearch.org/fact-tank/2019/01/17/black-muslims-account-for-a-fifth-of-all-u-s-muslims-and-about-half-are-converts-to-islam/
+
+	9. Allah loves kindness and gentleness in all things | Faith in Allah الإيمان بالله
+		https://abuaminaelias.com/allah-loves-gentleness-in-all-things/
+
+	10. How reliable are Hadith? Some are contradictory.
+		https://www.mohammedamin.com/Community_issues/How-reliable-are-hadith.html
+
+	11. The best of you in Islam | Faith in Allah الإيمان بالله
+		https://abuaminaelias.com/the-best-of-you-in-islam/
+
+	12. True men, manhood, and masculinity in Islam | Faith in Allah الإيمان بالله
+		https://abuaminaelias.com/true-men-manhood-and-masculinity-in-islam/
+
+	13. Prophet(saw) said.. قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم
+		http://qaalarasulallah.com/
+
+	14. Hadith on Divorce: The Prophet is angered by triple talaq | Daily Hadith Online الحديث اليومي
+		https://abuaminaelias.com/dailyhadithonline/2020/01/06/prophet-angered-by-triple-talaq/
+
+	15. My Mother-in-Law&#39;s Pakoray | The Sila Initiative
+		https://thesilainitiative.org/my-mother-in-laws-pakoray/
+
+	16. Islam gains about as many converts as it loses in U.S. | Pew Research Center
+		https://www.pewresearch.org/fact-tank/2018/01/26/the-share-of-americans-who-leave-islam-is-offset-by-those-who-become-muslim/
+
+	17. How To Teach Your Kids To Love The Quran
+		https://www.omarhana.com/post/how-to-teach-your-kids-to-love-the-quran
+
+	18. 7 Reasons Why God is Worthy of Worship | Hamza Andreas Tzortzis
+		https://www.hamzatzortzis.com/7-reasons-why-god-is-worthy-of-worship/#_edn14
+
+	19. The Islamic Perspectives And Rulings on Rape and Sexual Assault | MuslimMatters.org
+		https://muslimmatters.org/2020/02/11/the-islamic-perspectives-and-rulings-on-rape-and-sexual-assault/
+
+	20. Hadith on Quran: Reciting last ten verses of Surat Ali Imran | Daily Hadith Online الحديث اليومي
+		https://abuaminaelias.com/dailyhadithonline/2019/07/12/last-ten-ayat-surah-ali-imran/
+
+	21. Did the Prophet kill apostates who renounce Islam? | Faith in Allah
+		https://abuaminaelias.com/did-the-prophet-kill-apostates/
+
+	22. Maria, the Copt: Prophet Muhammad&#39;s Wife or Concubine? | ICRAA
+		https://icraa.org/maria-copt-muhammad-wife-concubine/
+
+	23. How To Answer Allegations? - ICRAA
+		https://icraa.org/how-to-answer-allegations/
+
+	24. Is Lawrence Krauss a Physicist, or Just a Bad Philosopher? - Scientific American Blog Network
+		https://blogs.scientificamerican.com/cross-check/is-lawrence-krauss-a-physicist-or-just-a-bad-philosopher/
+
+	25. Are children born out of wedlock condemned in hadith? | ICRAA
+		https://icraa.org/are-children-born-out-of-wedlock-condemned-in-hadith/
+
+	26. The Misplaced Faith of Isaac Newton | Answers in Genesis
+		https://answersingenesis.org/creation-scientists/misplaced-faith-isaac-newton/
+
+	27. Inspiration, Mini-series drama about the morals of Prophet Muhammad (SAW)
+		http://www.inspirationseries.org/
+
+	28. Competition in doing good deeds
+		https://www.islamweb.net/en/article/160708/competition-in-doing-good-deeds
+
+	29. Competing in righteousness | Submission.org - Your best source for Submission (Islam)
+		https://submission.org/friday_competing_in_righteousness.html
+
+	30. How We Split the World Apart - Article - Renovatio
+		https://renovatio.zaytuna.edu/article/how-we-split-the-world-apart
+
+	31. Protection of non-Muslim houses of worship in Islam | Faith in Allah
+		https://abuaminaelias.com/protection-of-non-muslim-houses-of-worship-in-islam/
+
+	32. Shaykh Abdal Hakim Murad on Riding the Tiger of Modernity – Traversing Tradition
+		https://traversingtradition.com/2019/02/18/shaykh-abdal-hakim-murad-on-riding-the-tiger-of-modernity/
+
+	33. New Muslim woman married to non-Muslim man? | Faith in Allah
+		https://abuaminaelias.com/new-muslim-woman-married-to-non-muslim-man/
+
+	34. Muslim women&#39;s right to divorce | Faith in Allah
+		https://abuaminaelias.com/muslim-womens-right-to-divorce/
+
+	35. Hadith on Suspicion: Assumption and speculation are biggest lies | Daily Hadith Online الحديث اليومي
+		https://abuaminaelias.com/dailyhadithonline/2011/10/04/dhann-biggest-lie/
+
+	36. Islamic evidences for the existence of the Creator | Faith in Allah الإيمان بالله
+		https://abuaminaelias.com/what-are-the-islamic-evidences-for-the-existence-of-the-creator/
+
+	37. 40 Questions About Islam - Kindle edition by Bennett, Matthew. Religion &amp; Spirituality Kindle eBooks @ Amazon.com.
+		https://www.amazon.com/dp/B0851RCBNZ/ref=sspa_dk_detail_0?psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyTjMyMU80S05IOEMyJmVuY3J5cHRlZElkPUEwNzk0NzYyNjcxWk5STk5ZMTZEJmVuY3J5cHRlZEFkSWQ9QTAyNzg4NDExVlBGU1lLQ1JRNVJaJndpZGdldE5hbWU9c3BfZGV0YWlsJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==
+
+	38. Golden age of Jewish culture in Spain - Wikipedia
+		https://en.wikipedia.org/wiki/Golden_age_of_Jewish_culture_in_Spain
+
+	39. Introduction to Competitive Programming
+		https://www.cs.purdue.edu/homes/ninghui/courses/390_Spring20/20_cp2_lectures.html
+
+	40. Sheikh Omar Suleiman | How to Navigate Coalition Building | LGBTQ+ Conference - YouTube
+		https://www.youtube.com/watch?v=F2SUAqoMYJ0
+
+	41. Custom Application Development &amp; Design Projects | Atomic Object
+		https://atomicobject.com/portfolio
+
+	42. Why were we Created? - SunnahOnline.com
+		https://sunnahonline.com/library/the-call-of-islam/147-why-were-we-created
+
+Quran:
+
+	1. Quran Statistics and Facts | The Last Dialogue
+		https://www.thelastdialogue.org/article/quran-statistics-and-facts/
+
+	2. Fushaa
+		https://fushaa.com/
+
+Nikah:
+
+	1. A Guide to Marriage: SeekersGuidance Reader - SeekersGuidance
+		https://seekersguidance.org/uncategorized/a-guide-to-marriage-seekersguidance-reader/
+
+	2. Will women wear hijab in Paradise too? - Islam Question &amp; Answer
+		https://islamqa.info/en/answers/114050/will-women-wear-hijab-in-paradise-too
+
+	3. Finding the Perfect Partner | Islamic Marriage advice with Bilal Dannoun - YouTube
+		https://www.youtube.com/watch?v=dN7aURgmwWk
+
+Duas:
+
+	1. Dua to be protected from all types of evil #2
+		http://www.duas.com/dua/554/Dua-to-be-protected-from-all-types-of-evil-2
+
+	2. Prayer at Night (Tahajjud) - Sunnah.com - Sayings and Teachings of Prophet Muhammad (صلى الله عليه و سلم)
+		https://sunnah.com/bukhari/19
+
+	3. Sahih al-Bukhari 1154 - Prayer at Night (Tahajjud) - كتاب التهجد - Sunnah.com - Sayings and Teachings of Prophet Muhammad (صلى الله عليه و سلم)
+		https://sunnah.com/bukhari:1154
+
+	4. Rejecting Hadiths: The Fitnah of the Quranists - The Thinking Muslim
+		https://thethinkingmuslim.com/2013/08/28/rejecting-hadiths/
+
+Internship Apps:
+
+	1. Internships
+		https://www.misoenergy.org/about/careers/internships/
+
+	2. Software Engineer Intern...
+		https://purdue-csm.symplicity.com/students/app/jobs/detail/11ae6b69bdb94675ca7cdcff89d6d89a
+
+	3. USAJOBS - Job Announcement
+		https://www.usajobs.gov/GetJob/ViewDetails/578509400
+
+	4. Corporate Intern – Software Engineer/Data Analytics in Peoria, IL - Caterpillar
+		https://caterpillarcareers.ttcportals.com//jobs/5493556-corporate-intern-software-engineer-slash-data-analytics
+
+	5. GE Application - Google Docs
+		https://docs.google.com/document/d/1x4z_mQag-xgYUcaQkbQZ5tar5QzTAZDQetg9k1n4GH0/edit
+
+	6. Software Engineer - Intern
+		https://www.datadoghq.com/careers/detail/?gh_jid=2265934
+
+	7. Software Engineering Internship - January 2020 (REMOTE) at Rubrik | Uncubed
+		https://uncubed.com/jobs/rubrik/job/456717-software-engineering-internship-january-2020-remote?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic
+
+	8. (51) Software Engineer Intern, Mobile (Summer 2021) | Splunk | LinkedIn
+		https://www.linkedin.com/jobs/view/2001255270/
+
+	9. Jobs – Squarespace
+		https://www.squarespace.com/careers/jobs/2329528
+
+	10. Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively
+		https://www.educative.io/courses/grokking-the-coding-interview
+
+	11. Working at SalesForce? : salesforce
+		https://www.reddit.com/r/salesforce/comments/7wgh83/working_at_salesforce/
+
+	12. anonymous technical interview practice | interviewing.io
+		https://interviewing.io/
+
+CS Stuff:
+
+	1. Introduction to Algorithms, Third Edition
+		https://edutechlearners.com/download/Introduction_to_algorithms-3rd%20Edition.pdf
+
+	2. SQL SELECT from multiple tables - javatpoint
+		https://www.javatpoint.com/sql-select-from-multiple-tables
+
+	3. how do I register to vote #election2020 - Google Search
+		https://www.google.com/search?sxsrf=ALeKk01ArQ9c3bv_Mo99BqPE2JIyoBobUA:1600793278709&q=how+do+I+register+to+vote+%23election2020&oi=ddle&ct=155812549&hl=en&sa=X&ved=0ahUKEwiq0u7Vm_3rAhVzds0KHW_3CPEQPQgP&biw=1152&bih=598
+
+	4. Indiana Voters
+		https://indianavoters.in.gov/
+
+	5. Decision Trees: ID3 Algorithm Explained | Towards Data Science
+		https://towardsdatascience.com/decision-trees-for-classification-id3-algorithm-explained-89df76e72df1
+
+	6. Perceptron Learning Algorithm: A Graphical Explanation Of Why It Works | by Akshay L Chandra | Towards Data Science
+		https://towardsdatascience.com/perceptron-learning-algorithm-d5db0deab975
+
+	7. Perceptron - YouTube
+		https://www.youtube.com/watch?v=4Gac5I64LM4&ab_channel=ritvikmath
+
+	8. lec-10-perceptron
+		https://www.cs.utah.edu/~zhe/pdf/lec-10-perceptron-upload.pdf
+
+	9. Training a Single Perceptron. And Its Learning Rules Derived from… | by Ani Karenovna K | Level Up Coding
+		https://levelup.gitconnected.com/training-a-single-perceptron-405026d61f4b
+
+	10. Naive Bayes Theorem. Introduction | by Jinde Shubham | Becoming Human: Artificial Intelligence Magazine
+		https://becominghuman.ai/naive-bayes-theorem-d8854a41ea08
+
+	11. Entropy: How Decision Trees Make Decisions | by Sam T | Towards Data Science
+		https://towardsdatascience.com/entropy-how-decision-trees-make-decisions-2946b9c18c8
+
+	12. How To Build A Killer Data Science Portfolio? | by T.AI | Oct, 2020 | Towards Data Science
+		https://towardsdatascience.com/how-to-make-a-killer-data-science-portfolio-219424a4e0d2
+
+	13. Decision Tree. It begins here.. It’s time to begin the journey | by Rishabh Jain | Medium
+		https://medium.com/@rishabhjain_22692/decision-trees-it-begins-here-93ff54ef134
+
+	14. Train/Test Split and Cross Validation in Python | by Adi Bronshtein | Towards Data Science
+		https://towardsdatascience.com/train-test-split-and-cross-validation-in-python-80b61beca4b6
+
+	15. python - How to split/partition a dataset into training and test datasets for, e.g., cross validation? - Stack Overflow
+		https://stackoverflow.com/questions/3674409/how-to-split-partition-a-dataset-into-training-and-test-datasets-for-e-g-cros
+
+	16. python - Split a large pandas dataframe - Stack Overflow
+		https://stackoverflow.com/questions/17315737/split-a-large-pandas-dataframe
+
+	17. python - Pandas split DataFrame by column value - Stack Overflow
+		https://stackoverflow.com/questions/33742588/pandas-split-dataframe-by-column-value
+
+	18. Let’s Write a Decision Tree Classifier from Scratch - Machine Learning Recipes #8 - YouTube
+		https://www.youtube.com/watch?v=LDRbO9a6XPU
+
+	19. Machine Learning: Pruning Decision Trees | Displayr
+		https://www.displayr.com/machine-learning-pruning-decision-trees/
+
+	20. python - pandas get column average/mean - Stack Overflow
+		https://stackoverflow.com/questions/31037298/pandas-get-column-average-mean
+
+	21. python - Convert pandas dataframe to NumPy array - Stack Overflow
+		https://stackoverflow.com/questions/13187778/convert-pandas-dataframe-to-numpy-array
+
+	22. Merge two files in Python PANDAS? - Stack Overflow
+		https://stackoverflow.com/questions/30620323/merge-two-files-in-python-pandas
+
+	23. An Introduction to Decision Tree Learning: ID3 Algorithm | by Hafidz Jazuli | Machine Learning Guy | Medium
+		https://medium.com/machine-learning-guy/an-introduction-to-decision-tree-learning-id3-algorithm-54c74eb2ad55
+
+	24. Introduction to Decision Trees (Titanic dataset) | Kaggle
+		https://www.kaggle.com/dmilla/introduction-to-decision-trees-titanic-dataset
+
+	25. Naive Bayesian
+		https://www.saedsayad.com/naive_bayesian.htm
+
+	26. NBayes.pdf
+		http://www.cs.cmu.edu/~10601b/slides/NBayes.pdf
+
+	27. English - Maariful Quran : Mufti Muhammad Shafi (r.a) : Free Download, Borrow, and Streaming : Internet Archive
+		https://archive.org/details/English-MaarifulQuran/English-MaarifulQuran-MuftiShafiUsmaniRA-Vol-6/page/n27/mode/2up
+
+	28. NumPy: Get the number of dimensions, shape, and size of ndarray | note.nkmk.me
+		https://note.nkmk.me/en/python-numpy-ndarray-ndim-shape-size/
+
+	29. Transaction Isolation Levels in DBMS - GeeksforGeeks
+		https://www.geeksforgeeks.org/transaction-isolation-levels-dbms/
+
+	30. MATCH - Neo4j Cypher Manual
+		https://neo4j.com/docs/cypher-manual/current/clauses/match/#match-on-multiple-rel-types
+
+	31. An Introduction to Naïve Bayes Classifier | by Yang S | Towards Data Science
+		https://towardsdatascience.com/introduction-to-na%C3%AFve-bayes-classifier-fa59e3e24aaf
+
+	32. France&#39;s Macron issues &#39;republican values&#39; ultimatum to Muslim leaders - BBC News
+		https://www.bbc.com/news/world-europe-55001167
+
+	33. ios - xcode simulator not coming up - reinstall possible? - Stack Overflow
+		https://stackoverflow.com/questions/27338042/xcode-simulator-not-coming-up-reinstall-possible
+
+	34. mongodb – Deployment Manager – CS348HW6 – Google Cloud Platform
+		https://console.cloud.google.com/dm/deployments/details/mongodb-1?project=cs348hw6&supportedpurview=project
+
+	35. design patterns - Why is Global State so Evil? - Software Engineering Stack Exchange
+		https://softwareengineering.stackexchange.com/questions/148108/why-is-global-state-so-evil
+
+	36. Video note-taking app - Slid - Chrome Web Store
+		https://chrome.google.com/webstore/detail/video-note-taking-app-sli/cgajiilhmpfemmdihjnodpibaffakjhj
+
+	37. REGULARIZATION: An important concept in Machine Learning | by Megha Mishra | Towards Data Science
+		https://towardsdatascience.com/regularization-an-important-concept-in-machine-learning-5891628907ea
+
+	38. Regularization Part 1: Ridge (L2) Regression - YouTube
+		https://www.youtube.com/watch?v=Q81RR3yKn30&t=431s
+
+	39. algorithm - What is an objective function? - Artificial Intelligence Stack Exchange
+		https://ai.stackexchange.com/questions/9005/what-is-an-objective-function
+
+	40. Log Loss or Cross-Entropy Cost Function in Logistic Regression - YouTube
+		https://www.youtube.com/watch?v=MztgenIfGgM
+
+	41. Logistic Regression Details Pt1: Coefficients - YouTube
+		https://www.youtube.com/watch?v=vN5cNN2-HWE
+
+	42. Tutorial 42 - Ensemble: What is Bagging (Bootstrap Aggregation)? - YouTube
+		https://www.youtube.com/watch?v=KIOeZ5cFZ50
+
+	43. ECO352_PS4_A.pdf
+		https://www.princeton.edu/~dixitak/Teaching/InternationalTrade/ProblemSets/ECO352_PS4_A.pdf
+
+	44. Backpat Tutoring
+		https://www.backpattutoring.org/
+
+	45. Understanding the concept of Hierarchical clustering Technique | by Chaitanya Reddy Patlolla | Towards Data Science
+		https://towardsdatascience.com/understanding-the-concept-of-hierarchical-clustering-technique-c6e8243758ec
+
+	46. Unsupervised Learning and Data Clustering | by Sanatan Mishra | Towards Data Science
+		https://towardsdatascience.com/unsupervised-learning-and-data-clustering-eeecb78b422a
+
+	47. Likelihood_EM_HMM_Kalman.pptx
+		https://people.eecs.berkeley.edu/~pabbeel/cs287-fa13/slides/Likelihood_EM_HMM_Kalman.pdf
+
+	48. Bayesian Information Criterion (BIC) Modeling - YouTube
+		https://www.youtube.com/watch?v=tmDHl5PMKoo
+
+	49. Solving the SVM: Stochastic Gradient Descent and Hinge Loss | Towards Data Science
+		https://towardsdatascience.com/solving-svm-stochastic-gradient-descent-and-hinge-loss-8e8b4dd91f5b
+
+	50. Passing Functions to Components – React
+		https://reactjs.org/docs/faq-functions.html
+
+	51. Redirect on Login and Logout | Serverless Stack
+		https://serverless-stack.com/chapters/redirect-on-login-and-logout.html
+
+	52. Watch technical mock interviews with engineers from Google, LinkedIn, and more | anonymous technical interview practice | interviewing.io
+		https://interviewing.io/recordings
+
+	53. Build your own VCS · Ryan Heathcote
+		http://ryanheathcote.com/git/build-your-own-vcs
+
+	54. Discrete Mathematics and Its Applications - Kenneth Rosen (2012).pdf
+		https://notendur.hi.is/mbh6/html/_downloads/Discrete%20Mathematics%20and%20Its%20Applications%20-%20Kenneth%20Rosen%20(2012).pdf
+
+	55. Strong Induction Examples - YouTube
+		https://www.youtube.com/watch?v=6O1s3_GsSHo
+
+	56. eTextbooks | Rent or Buy Online Textbooks | VitalSource
+		https://www.vitalsource.com/
+
+	57. Donald Knuth: Programming is like nothing else. Become friends with geeks - iDNES.cz
+		https://www.idnes.cz/technet/technika/donald-knuth-interview-computer-science-brno-czech-republic.A191016_112708_tec_technika_pka
+
+	58. CS 44800: Introduction to Relational Database Management Systems - Assignment 1
+		https://www.cs.purdue.edu/homes/clifton/cs44800/assign1.sxhtml
+
+	59. cs448/PSO1 at master · gehuangyi20/cs448 · GitHub
+		https://github.com/gehuangyi20/cs448/tree/master/PSO1
+
+	60. A Map of the Territory · Crafting Interpreters
+		https://www.craftinginterpreters.com/a-map-of-the-territory.html
+
+	61. Automate the Boring Stuff with Python
+		https://automatetheboringstuff.com/
+
+	62. Bash Cookbook: Leverage Bash scripting to automate daily tasks and improve ... - Ron Brash, Ganesh Sanjiv Naik - Google Books
+		https://books.google.com/books?id=9AhnDwAAQBAJ&pg=PA2&lpg=PA2&dq=bash+get+number+of+tasks&source=bl&ots=4MMUJe5L3B&sig=ACfU3U2LBZxKCaEfztweyvh_52kmKClhmw&hl=en&ppis=_c&sa=X&ved=2ahUKEwjQsNuzsNvnAhWFY80KHTUgAjwQ6AEwD3oECAwQAQ#v=onepage&q=bash%20get%20number%20of%20tasks&f=false
+
+	63. Hijab – Unveiling the Mystery | Facts about the Muslims &amp; the Religion of Islam - Toll-free hotline 1-877-WHY-ISLAM
+		https://www.whyislam.org/brochures/hijab/
+
+	64. Undoing Things | Tower Help
+		https://www.git-tower.com/help/guides/faq-and-tips/undoing-things/mac
+
+	65. JavaScript Arrow Functions: How, Why, When (and WHEN NOT) to Use Them
+		https://zendev.com/2018/10/01/javascript-arrow-functions-how-why-when.html
+
+	66. Moodle - Open-source learning platform | Moodle.org
+		https://moodle.org/
+
+	67. My Experience Directing a Student Nonprofit Organization | by James Wang | Impact Labs | Medium
+		https://medium.com/impact-labs/my-experience-directing-a-student-nonprofit-organization-6adff1172b01
+
+	68. Python Tutor - Visualize Python, Java, JavaScript, C, C++, Ruby code execution
+		http://pythontutor.com/visualize.html#mode=display
+
+	69. Machine Learning Datasets | Papers With Code
+		https://paperswithcode.com/datasets
+
+New CS Stuff:
+
+	1. Why You Should Use Rust in 2021
+		https://serokell.io/blog/rust-guide
+
+	2. I Tried to Block Amazon From My Life. It Was Impossible
+		https://gizmodo.com/i-tried-to-block-amazon-from-my-life-it-was-impossible-1830565336
+
+	3. How to write a killer Software Engineering résumé
+		https://www.freecodecamp.org/news/writing-a-killer-software-engineering-resume-b11c91ef699d/
+
+	4. Black-led startup Varuna uses AI to purify water supply
+		https://blog.google/outreach-initiatives/entrepreneurs/varuna-world-water-day?utm_source=HPP&utm_medium=Keyword&utm_campaign=Varuna
+
+	5. GitHub - streamlit/demo-self-driving: Streamlit app demonstrating an image browser for the Udacity self-driving-car dataset with realtime object detection using YOLO.
+		https://github.com/streamlit/demo-self-driving
+
+	6. GitHub - streamlit/demo-uber-nyc-pickups: A Streamlit demo to interactively visualize Uber pickups in New York City
+		https://github.com/streamlit/demo-uber-nyc-pickups
+
+	7. OpenStreetMap
+		https://www.openstreetmap.org/#map=4/38.01/-95.84
+
+	8. Discourse - Civilized Discussion
+		https://www.discourse.org/
+
+	9. Typing practice
+		https://www.keybr.com/
+
+	10. 10FastFingers.com - Typing Test, Competitions, Practice &amp; Typing Games
+		https://10fastfingers.com/
+
+	11. How to Use Git Aliases to Increase Your Productivity
+		https://www.freecodecamp.org/news/how-to-use-git-aliases/
+
+	12. How to become a rockstar engineer
+		https://www.freecodecamp.org/news/how-to-become-a-rockstar-engineer-e785b09cc104/
+
+	13. How to set up a serious Kubernetes terminal
+		https://www.freecodecamp.org/news/how-to-set-up-a-serious-kubernetes-terminal-dd07cab51cd4/
+
+	14. How Anki Saved My Engineering Career
+		https://www.freecodecamp.org/news/how-anki-saved-my-engineering-career-293a90f70a73/
+
+	15. How to create, read, update and search through Excel files using Python
+		https://www.freecodecamp.org/news/how-to-create-read-update-and-search-through-excel-files-using-python-c70680d811d4/
+
+	16. How to lock an angle when drawing on canvas in JavaScript
+		https://www.freecodecamp.org/news/how-to-lock-an-angle-when-drawing-on-canvas-in-javascript-51938b5abc7c/
+
+	17. Books that Junior Developers should read
+		https://www.freecodecamp.org/news/9-books-for-junior-developers-in-2019-e41fc7ecc586/
+
+	18. Never feel overwhelmed at work again: how to use the M.I.T. technique
+		https://www.freecodecamp.org/news/never-feel-overwhelmed-at-work-again-how-to-use-the-m-i-t-technique-70d132aad0cc/
+
+	19. https://initialcommit.com/verifyEmail?email=hussainshaad@gmail.com&amp;emailVerificationToken=499580
+		https://initialcommit.com/verifyEmail?email=hussainshaad@gmail.com&emailVerificationToken=499580
+
+	20. Contact
+		https://initialcommit.com/contact
+
+	21. Working with PDF files in Python - GeeksforGeeks
+		https://www.geeksforgeeks.org/working-with-pdf-files-in-python/
+
+	22. Working With PDFs in Python. Using the PyPDF2 library | by Vishal Sharma | The Startup | Medium
+		https://medium.com/swlh/working-with-pdfs-in-python-6b96d6ce346c
+
+	23. Download and save PDF file with Python requests module - Stack Overflow
+		https://stackoverflow.com/questions/34503412/download-and-save-pdf-file-with-python-requests-module
+
+	24. EbookLib · PyPI
+		https://pypi.org/project/EbookLib/
+
+	25. Use Web Scraping to Download All PDFs with Python | by nhammad | Medium
+		https://medium.com/the-innovation/notesdownloader-use-web-scraping-to-download-all-pdfs-with-python-511ea9f55e48
+
+	26. Technical Blogging Basics – How to Write Articles as a Developer
+		https://www.freecodecamp.org/news/technical-blogging-basics/
+
+	27. Biggest Data Breaches of 2020 – and What Developers Should Learn From Them
+		https://www.freecodecamp.org/news/biggest-data-breaches-lessons-learned/
+
+	28. Social Engineering — The Art Of Hacking Humans
+		https://www.freecodecamp.org/news/social-engineering-the-art-of-hacking-humans/
+
+	29. SQL Injection Tutorial - What is SQL Injection and How to Prevent it
+		https://www.freecodecamp.org/news/what-is-sql-injection-how-to-prevent-it/
+
+	30. Postman API Tutorial – How to Use Postman to Test an API [Full Course]
+		https://www.freecodecamp.org/news/learn-how-to-use-postman-to-test-apis/
+
+	31. How to Read a Research Paper – A Guide to Setting Research Goals, Finding Papers to Read, and More
+		https://www.freecodecamp.org/news/building-a-habit-of-reading-research-papers/
+
+	32. AWS Basics for Beginners - Full Course - YouTube
+		https://www.youtube.com/watch?v=ulprqHHWlng
+
+	33. Main Page - Competitive Programming Algorithms
+		http://cp-algorithms.com/
+
+	34. How to Install Python 3 on Mac – Brew Install Update Tutorial
+		https://www.freecodecamp.org/news/python-version-on-mac-update/
+
+	35. Open ML University - Open ML University
+		https://curriculum.openmlu.com/
+
+Kantabury:
+
+	1. Welcome to pdfminer.six’s documentation! — pdfminer.six 20201018 documentation
+		https://pdfminersix.readthedocs.io/en/latest/
+
+	2. pdfminer/pdfminer.six: Community maintained fork of pdfminer - we fathom PDF
+		https://github.com/pdfminer/pdfminer.six
+
+	3. pdfreader · PyPI
+		https://pypi.org/project/pdfreader/
+
+	4. PDF Processing with Python. The way to extract text from your pdf… | by Ahmed Khemiri | Towards Data Science
+		https://towardsdatascience.com/pdf-preprocessing-with-python-19829752af9f
+
+	5. Somleng | Documentation
+		https://www.somleng.org/docs.html
+
+	6. Open Source Twilio Alternatives | AlternativeTo
+		https://alternativeto.net/software/twilio/?license=opensource
+
+	7. Free Twilio Alternatives with feature &#39;Text messaging&#39; | AlternativeTo
+		https://alternativeto.net/software/twilio/?feature=text-messaging&license=free
+
+	8. Sending HTML email using Python - Stack Overflow
+		https://stackoverflow.com/questions/882712/sending-html-email-using-python
+
+	9. Incoming and Outgoing Mail Server Settings for Hotmail, Yahoo, Google GMail, AOL, MSN and more
+		http://www.emailaddressmanager.com/tips/mail-settings.html
+
+	10. Visual Studio Code June 2019
+		https://code.visualstudio.com/updates/v1_36#_launch-terminals-with-clean-environments
+
+	11. python - Using Schedule to run jobs at certain times - Stack Overflow
+		https://stackoverflow.com/questions/33659606/using-schedule-to-run-jobs-at-certain-times
+
+Interviews/Prob Solv:
+
+	1. Problems – Kattis, Kattis
+		https://open.kattis.com/problems
+
+	2. Reinforcement Learning - Open ML University
+		https://curriculum.openmlu.com/core/reinforcement-learning
+
+	3. Why You Should Learn SQL if You Want a Data Science Job
+		https://www.freecodecamp.org/news/learn-sql-to-work-in-data-science/
+
+	4. Recidiviz | A Criminal Justice Data Platform.
+		https://www.recidiviz.org/
+
+	5. Oh My Zsh - a delightful &amp; open source framework for Zsh
+		https://ohmyz.sh/
+
+	6. NGOs: EU &quot;Can&#39;t Have it Both Ways&quot; on Shipbreaking and Hazardous Waste
+		https://www.maritime-executive.com/article/ngos-eu-can-t-have-it-both-ways-on-shipbreaking-and-hazardous-waste
+
+	7. KENYA: The country will be the new hub for plastic waste produced in USA | Afrik 21
+		https://www.afrik21.africa/en/kenya-the-country-will-be-the-new-hub-for-plastic-waste-produced-in-usa/
+
+Amazon:
+
+	1. Amazon.com : KAC Adjustable Dumbbells Barbell 2 in 1 with Connector, Adjustable Dumbbell Barbell Sets Total 66lbs, Lifting Dumbells for Body Workout Home Gym (Enhanced Edition) : Sports &amp; Outdoors
+		https://www.amazon.com/KAC-Adjustable-Dumbbells-Connector-Dumbbell/dp/B08GC7NG2C/ref=sr_1_18?crid=U46ZU5K85ITC&dchild=1&keywords=adjustable+dumbbells&qid=1607558783&s=sporting-goods&sprefix=adjustab%2Csporting%2C195&sr=1-18
+
+	2. Amazon.com : Joychoic Dumbbells-Dumbbell Set-Adjustable Dumbbells-Weights Dumbbells Set with Connecting Rod-Exercise &amp; Fitness Dumbbells 2-in-1 Set-Non-Slip Neoprene Hand44LBS : Sports &amp; Outdoors
+		https://www.amazon.com/Joychoic-Dumbbells-Dumbbell-Set-Adjustable-Dumbbells-Weights-Rod-Exercise/dp/B08FBBLDXC/ref=sr_1_8?dchild=1&keywords=Adjustable%2BDumbbell%2Bwith%2BConnecting%2BRod&qid=1607562809&s=sporting-goods&sr=1-8&th=1
+
+	3. The Study Quran: A New Translation and Commentary: Nasr, Seyyed Hossein, Caner Karacay Dagli, Dakake, Maria Massi, Lumbard, Joseph E.B., Rustom, Mohammed: 9780061125867: Amazon.com: Books
+		https://www.amazon.com/dp/0061125865/ref=cm_sw_r_cp_api_glc_fabc_f-m5FbKYJXVXF
+
+	4. Amazon.com : K KiNGKANG Power Tower Adjustable Height Multi-Function Home Strength Training Fitness Workout Station, T056 : Sports &amp; Outdoors
+		https://www.amazon.com/KiNGKANG-Adjustable-Multi-Function-Strength-Training/dp/B071W8S9XB/ref=pd_di_sccai_6?pd_rd_w=uRiCr&pf_rd_p=c9443270-b914-4430-a90b-72e3e7e784e0&pf_rd_r=JK8NFXSHG78PMX5Q8K0Z&pd_rd_r=9b4b2cd7-229d-4171-a2c7-8007d9db3b88&pd_rd_wg=yVGW5&pd_rd_i=B071W8S9XB&psc=1
+
+	5. Amazon.com : BangTong&amp;Li Power Tower Workout Pull Up &amp; Dip Station Adjustable Multi-Function Home Gym Fitness Equipment (Black) : Sports &amp; Outdoors
+		https://www.amazon.com/dp/B08L3ND268/ref=sspa_dk_detail_2?psc=1&pd_rd_i=B08L3ND268&pd_rd_w=z9OFJ&pf_rd_p=cbc856ed-1371-4f23-b89d-d3fb30edf66d&pd_rd_wg=jkf1q&pf_rd_r=S1MHT79HSHR96NQNBDR6&pd_rd_r=7331333e-1df5-40fd-acdc-3816e1840c06&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyWjZLOTNVVUFJVVo3JmVuY3J5cHRlZElkPUEwNjI0NTY1MllIMkxDMEtUWlhRTiZlbmNyeXB0ZWRBZElkPUEwMTI5OTU4MzhQVTE1TFMxOU5YVCZ3aWRnZXROYW1lPXNwX2RldGFpbF90aGVtYXRpYyZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=
+
+	6. Amazon.com : BangTong&amp;Li Power Tower Workout Pull Up &amp; Dip Station Adjustable Multi-Function Home Gym Fitness Equipment (red+Black) : Sports &amp; Outdoors
+		https://www.amazon.com/gp/product/B07HF36TC1/ref=crt_ewc_img_dp_1?ie=UTF8&psc=1&smid=AZQOR9BVS9AT9
+
+	7. Amazon.com : BangTong&amp;Li Power Tower Workout Pull Up &amp; Dip Station Adjustable Multi-Function Home Gym Fitness Equipment (Black) : Sports &amp; Outdoors
+		https://www.amazon.com/BangTong-Li-Adjustable-Multi-Function-Equipment/dp/B08L3ND268/ref=cs_sr_dp?crid=2Z37W6BYIZCLS&dchild=1&keywords=pull+up+bar+station&qid=1616111444&sprefix=pull+up+%2Caps%2C192&sr=8-10
+
+	8. Amazon.com : Sportsroyals Power Tower Dip Station Pull Up Bar for Home Gym Strength Training Workout Equipment, 400LBS. : Sports &amp; Outdoors
+		https://www.amazon.com/Sportsroyals-Station-Strength-Training-Equipment/dp/B07SM8VJ6P/ref=pd_rhf_dp_s_crs_dp_rhf_k2p_3?pd_rd_w=5Yeqp&pf_rd_p=19e936ea-548d-48be-af7d-3c9ad58b2970&pf_rd_r=XWGST6APMMXVF5D84AD5&pd_rd_r=11a28a61-4020-494a-9de5-11b3ab8658ce&pd_rd_wg=YK3fk&pd_rd_i=B07SM8VJ6P&psc=1
+
+	9. Amazon.com : Gonex Portable Home Gym Workout Equipment with 10 Exercise Accessories Ab Roller Wheel, Elastic Resistance Bands, Push-up Stand, Post Landmine Sleeve and More for Full Body Workouts System : Sports &amp; Outdoors
+		https://www.amazon.com/dp/B08CZHDZ3B/ref=sspa_dk_detail_3?psc=1&pd_rd_i=B08CZHDZ3B&pd_rd_w=CBUrU&pf_rd_p=cbc856ed-1371-4f23-b89d-d3fb30edf66d&pd_rd_wg=rvsnK&pf_rd_r=J3VKRNJNBF71CDNNVSGK&pd_rd_r=f235d5a1-390b-40fa-bf3c-d627b7abd2ae&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExWEozQUsyUUhINkM2JmVuY3J5cHRlZElkPUEwNjQ0MjY3MTJDVEI5UlNOSkpMQyZlbmNyeXB0ZWRBZElkPUEwMjk0ODI0NDZaUlhLSEFQQzJIJndpZGdldE5hbWU9c3BfZGV0YWlsX3RoZW1hdGljJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==
+
+	10. Muhammad: How He Can Make You Extraordinary: Al-Awadi, Hesham: 9781535195973: Amazon.com: Books
+		https://www.amazon.com/Muhammad-How-Can-Make-Extraordinary/dp/1535195975
+
+	11. Children Around the Prophet: How Muhammad raised the Young Companions: Al-Awadi, Hesham: 9781986793445: Amazon.com: Books
+		https://www.amazon.com/Children-Around-Prophet-Muhammad-Companions/dp/1986793443/ref=pd_sim_14_10?_encoding=UTF8&pd_rd_i=1986793443&pd_rd_r=c58f8789-ad13-4569-9a30-84d405a83ee4&pd_rd_w=qjiER&pd_rd_wg=RKdy3&pf_rd_p=52622570-ce87-4046-87cf-402c2bd33577&pf_rd_r=NNEQMJ5DJ3ZRX3B9YGM9&psc=1&refRID=NNEQMJ5DJ3ZRX3B9YGM9
+
+	12. The Best Books for Students: An Essential Reading List for College
+		https://collegeinfogeek.com/essential-books-for-students/
+
+Misc:
+
+	1. Free, printable, editable proposal templates for work or school | Canva
+		https://www.canva.com/proposals/templates/
+
+	2. Learn Arabic with Madinah Arabic free courses
+		https://www.madinaharabic.com/
+
+	3. stealth war - Google Search
+		https://www.google.com/search?q=stealth+war&rlz=1C5CHFA_enUS810US810&oq=stealth+war+&aqs=chrome..69i57j0i457j0l6.6321j0j4&sourceid=chrome&ie=UTF-8
+
+	4. Blackwater contractors, George Papadopoulos and ex-lawmakers are pardoned by Trump - CNNPolitics
+		https://www.cnn.com/2020/12/22/politics/trump-pardons/index.html
+
+	5. Furqaan Studios
+		http://furqaanstudios.com/
+
+	6. Nathaniel Drew - YouTube
+		https://www.youtube.com/channel/UCrdWRLq10OHuy7HmSckV3Vg
+
+	7. The Folly of Scientism
+		https://www.thenewatlantis.com/publications/the-folly-of-scientism
+
+	8. How-the-World-Changed-Social-Media.pdf
+		file:///Users/shaadhussain/Downloads/How-the-World-Changed-Social-Media.pdf
+
+	9. Basketball | Shot Finder | Stathead.com
+		https://stathead.com/tiny/WQ5Pz
+
+	10. curry
+		https://streamable.com/rhqn8
+
+	11. Olajuwon is relishing retired life | Houston Rockets
+		https://www.nba.com/rockets/news/Olajuwon_is_relishing_retired_-187049-822.html
+
+	12. All the platforms that have banned or restricted Trump so far - Axios
+		https://www.axios.com/platforms-social-media-ban-restrict-trump-d9e44f3c-8366-4ba9-a8a1-7f3114f920f1.html
+
+	13. Quranicthought Top|Al-Ghazali The Remembrance of Death and the Afterlife
+		https://www.quranicthought.com/books/i%E1%B8%A5ya-ulum-al-din-al-ghazali-on-the-remembrance-of-death-the-afterlife/
+
+	14. “Spurs will never win a title with Tony Parker”: Tim Duncan told Gregg Popovich he didn’t want to team up with French point guard | The SportsRush
+		https://thesportsrush.com/nba-news-spurs-will-never-win-a-title-with-tony-parker-tim-duncan-told-gregg-popovich-he-didnt-want-to-team-up-with-french-point-guard/
+
+	15. slamduncan.com -- 21
+		https://web.archive.org/web/20170615020103/http://www.slamduncan.com/media-wallpaper.php
+
+	16. James Harden and the Houston Rockets are at a breaking point
+		https://www.espn.com/nba/story/_/id/30528130/james-harden-houston-rockets-breaking-point
+
+	17. The Fortunate Seventy Thousand Who Will Enter Paradise Without Accountability - The Thinking Muslim
+		https://thethinkingmuslim.com/2012/07/19/the-fortunate-seventy-thousand-who-will-enter-paradise-without-accountability/
+
+	18. The Holocaust Industry - Wikipedia
+		https://en.wikipedia.org/wiki/The_Holocaust_Industry#Reviews_and_critiques
+
+	19. Imran Hussein Epistemix - YouTube
+		https://www.youtube.com/post/UgzaTnUR58-ORlFmivF4AaABCQ
+
+	20. Galileo Goes to Jail and Other Myths about Science and Religion: Numbers, Ronald L.: 8580001027616: Amazon.com: Books
+		https://www.amazon.com/Galileo-Other-Myths-Science-Religion/dp/0674057414
+
+	21. Tim Duncan : Slam Duncan : Kernan, Kevin : Free Download, Borrow, and Streaming : Internet Archive
+		https://archive.org/details/timduncanslamdun0000kern/page/n99/mode/2up
+
+	22. Amazon Seller Tools Helping to Source, Launch &amp; Dominate | Viral Launch
+		https://viral-launch.com/
+
+	23. Hebdomadal | Definition of Hebdomadal at Dictionary.com
+		https://www.dictionary.com/browse/hebdomadal?s=t
+
+	24. Yemen&#39;s Houthi rebels impeding UN aid flow, demand a cut
+		https://apnews.com/article/edb2cad767ccbf898c220e54c199b6d9
+
+	25. Open Letter on Autonomous Weapons - Future of Life Institute
+		https://futureoflife.org/open-letter-autonomous-weapons/
+
+	26. PERFECT Triceps 6 min BLAST at Home | 28 Day Challenge - YouTube
+		https://www.youtube.com/watch?v=vIgYHZOAfFo&t=32s
+
+	27. Botometer® by OSoMe
+		https://botometer.osome.iu.edu/
+
+	28. Safina Society: Volunteer Form
+		https://docs.google.com/forms/d/e/1FAIpQLScfRZImEZqU7jtPsF8qRa5EJFbaSYi9AYx5ZbDHiUnrYOwf6A/viewform
+
+	29. Arnoud van Doorn - Wikipedia
+		https://en.wikipedia.org/wiki/Arnoud_van_Doorn#cite_note-6
+
+	30. GovTrack.us: Tracking the U.S. Congress
+		https://www.govtrack.us/
+
+	31. Launching A Successful Redesign For 20 Million Students
+		https://medium.com/tech-quizlet/launching-a-successful-redesign-for-20-million-students-2f4c4b518b6e
+
+	32. G4U2W5_ms
+		http://mrswebb4.weebly.com/uploads/2/0/4/9/20499204/_so_you_want_to_be_president.pdf
+
+	33. In 2003, Steve Kerr Created the Perfect Shooter. In 2019, He Coaches Him. - The New York Times
+		https://www.nytimes.com/2019/06/05/sports/steve-kerr-perfect-shooter.html
+
+	34. Steve Kerr spent 2 years collecting his coaching philosophies for Warriors
+		https://www.businessinsider.com/steve-kerr-built-coaching-philosophies-for-warriors-2016-4
+
+	35. Forty Hadith al-Nawawi in English and Arabic - Faith in Allah
+		https://abuaminaelias.com/forty-hadith-nawawi/
+
+Fitness:
+
+	1. Food Nutrition Facts and Free Calorie Counter | CalorieKing
+		https://www.calorieking.com/us/en/
+
+	2. Amazon.com : FLYBIRD Weight Bench, Adjustable Strength Training Bench for Full Body Workout with Fast Folding- 2020 Version : Sports &amp; Outdoors
+		https://www.amazon.com/FLYBIRD-Adjustable-Workout-Multi-Purpose-Foldable/dp/B07DNYSJ8W/ref=pd_rhf_eeolp_s_pd_crcd_1_4/144-7719038-5635646?_encoding=UTF8&pd_rd_i=B07DNYSJ8W&pd_rd_r=810c0029-6405-4c67-a8b2-5985ffa966d2&pd_rd_w=57jUU&pd_rd_wg=XTkYY&pf_rd_p=8019ba47-0a12-4976-b76b-5c932d60db6f&pf_rd_r=GA57B35TWBPSZXMAQ9W4&psc=1&refRID=GA57B35TWBPSZXMAQ9W4
+
+COM:
+
+	1. Temperate rainforests near the South Pole during peak Cretaceous warmth | Nature
+		https://www.nature.com/articles/s41586-020-2148-5
+
+	2. Uses Of Machine Learning | List of Top 10 Uses Of Machine Learning
+		https://www.educba.com/uses-of-machine-learning/
+
+	3. Machine Learning textbook
+		http://www.cs.cmu.edu/~tom/mlbook.html
+
+	4. Trends in Computer Science Education | UChicago Consortium on School Research
+		https://consortium.uchicago.edu/publications/trends-in-computer-science-education
+
+	5. The Importance of Computer Science Education – CS1C
+		https://sites.uci.edu/cs1c/importance-of-computer-science-education/
+
+	6. Can Majoring in Computer Science Improve General Problem-solving Skills? | Proceedings of the 51st ACM Technical Symposium on Computer Science Education
+		https://dl.acm.org/doi/abs/10.1145/3328778.3366808?casa_token=DhxCzBQPglsAAAAA:psaFqibW43HoBtPfl9ZJ9jlP1gy3WjVRXdNLYNHmxjHTQcg8KRERZfxbCM_8OWGCK1Z1cOcMMXM
+
+	7. DigitalCommons@IMSA - Professional Learning Day: Trends in Computer Science Education
+		https://digitalcommons.imsa.edu/proflearningday/2021/session3/6/
+
+	8. Trends in Computer Science Education
+		https://digitalcommons.imsa.edu/cgi/viewcontent.cgi?article=1440&context=proflearningday
+
+	9. Can Majoring in Computer Science Improve General Problem-solving Skills?
+		https://dl.acm.org/doi/pdf/10.1145/3328778.3366808
+
+	10. ACM: Digital Library: Communications of the ACM
+		https://dl.acm.org/doi/fullHtml/10.1145/3000612
+
+	11. What do we know about the expansion of K-12 computer science education?
+		https://www.brookings.edu/research/what-do-we-know-about-the-expansion-of-k-12-computer-science-education/
+
+	12. Computational thinking and thinking about computing | Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences
+		https://royalsocietypublishing.org/doi/10.1098/rsta.2008.0118
+
+	13. Computer science in K-12 school curricula of the 2lst century: Why, what and when?
+		https://link.springer.com/content/pdf/10.1007/s10639-016-9493-x.pdf
+
+	14. Can Majoring in Computer Science Improve General Problem-solving Skills? | Proceedings of the 51st ACM Technical Symposium on Computer Science Education
+		https://dl.acm.org/doi/10.1145/3328778.3366808
+
+Old Stuff:
+
+	1. jasonli468/HCR-House-Points-Android
+		https://github.com/jasonli468/HCR-House-Points-Android
+
+	2. Android App Console
+		https://play.google.com/apps/publish/?account=6585386922055753180#AppListPlace
+
+	3. What Your Right Hands Possess: Islam and Concubinage - Sh. Omar Suleiman - YouTube
+		https://www.youtube.com/watch?v=9be8TkbFShI&feature=youtu.be
+
+	4. Slavery: A Past and Present Tragedy with Sheikh Omar Suleiman - YouTube
+		https://www.youtube.com/watch?v=pR50Lw_16zo&t=2058s
+
+	5. The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!) – Joel on Software
+		https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/
+
+	6. CS252
+		https://www.cs.purdue.edu/homes/cs252/
+
+	7. CS252 Slides
+		file:///Users/shaadhussain/Downloads/CS252-Slides-Spring2020.pdf
+
+	8. CS250-Fall2019.pptx - Google Slides
+		https://docs.google.com/presentation/d/e/2PACX-1vTfQIOXwIl7EP4A_0BFbvAIKP1IbFudPtEVrdoJMnlLZzI7ac6Ox3OxZbLwp7fHqA/pub?start=false&loop=false&delayms=3000&slide=id.g5d33d5d500_0_286
+
+	9. AfterCollege Scholarship
+		https://www.aftercollege.com/company/aftercollege-inc/10/scholarship/237/?source=ur-sch-engtech081319&_ga=2.121040008.1004679239.1569445260-1682791538.1534778961
+
+	10. Can colonial nations truly recognise the sovereignty of Indigenous people? | Aeon Essays
+		https://aeon.co/essays/can-colonial-nations-truly-recognise-the-sovereignty-of-indigenous-people?utm_source=Aeon+Newsletter&utm_campaign=80d095608c-EMAIL_CAMPAIGN_2019_09_30_05_12&utm_medium=email&utm_term=0_411a82e59d-80d095608c-69340129
+
+	11. CooperToons - A Website Dedicated to Educating the World with Cartoons, Caricatures, Fine Art, and Illustrated Essays on Topics as Diverse as History, Biography, Science, Mathematics, Philosophy, and Good Citizenship.
+		https://www.coopertoons.com/
+
+	12. A Brief History of Women in Computing - By
+		https://hackernoon.com/a-brief-history-of-women-in-computing-e7253ac24306
+
+	13. Exodus 21:7 And if a man sells his daughter as a servant, she is not to go free as the menservants do.
+		https://biblehub.com/exodus/21-7.htm
+
+	14. 1 Corinthians 11:5 And every woman who prays or prophesies with her head uncovered dishonors her head, for it is just as if her head were shaved.
+		https://biblehub.com/1_corinthians/11-5.htm
+
+	15. Peoria IL Volunteer, Service and Social Impact Opportunities and Events
+		https://www.brightest.io/
+
+	16. Become A Tutor | Learn To Be - Free Online Tutoring
+		https://learntobe.org/apply#tutor_application
+
+	17. Learn to Be | Events, Volunteer Opportunities &amp; How to Get Involved
+		https://www.brightest.io/cause/learn-to-be/
+
+	18. Countering Violent Extremism (CVE): A Resource Page | Brennan Center for Justice
+		https://www.brennancenter.org/our-work/research-reports/countering-violent-extremism-cve-resource-page
+
+	19. First Timers Only - Get involved in Open Source and commit code to your first project!
+		https://www.firsttimersonly.com/
+
+	20. Up For Grabs
+		https://up-for-grabs.net/#/filters?tags=java
+
+	21. A Course in Machine Learning
+		http://ciml.info/
+
+	22. Prosecutors Archives - The Appeal
+		https://theappeal.org/topics/prosecutors/
+
+	23. Mondoweiss - Palestine News
+		https://mondoweiss.net/
+
+	24. CS39000-CPX
+		https://www.cs.purdue.edu/homes/ninghui/courses/390_Spring20/index.html
+
+	25. Best Free Online Presentation Software, Presentation Tools | Visme
+		https://www.visme.co/presentation-software/
+
+	26. Square + Flutter: Beautiful, fast mobile payment apps
+		https://medium.com/square-corner-blog/square-flutter-beautiful-fast-mobile-payment-apps-539995d2e23a
+
+	27. Capitalizing on Mass Incarceration: U.S. Growth in Private Prisons | The Sentencing Project
+		https://www.sentencingproject.org/publications/capitalizing-on-mass-incarceration-u-s-growth-in-private-prisons/
+
+	28. Virtual Failr
+		https://hirebig10.vfairs.com/
+
+	29. COVID-19: Analysis, resources and how you can help - 80,000 Hours
+		https://80000hours.org/covid-19/
+
+	30. OpenMined
+		https://www.openmined.org/
+
+	31. 10 Steps to Solving a Programming Problem - codeburst
+		https://codeburst.io/10-steps-to-solving-a-programming-problem-8a32d1e96d74
+
+ECON:
+
+	1. Econ181Lecture2a.pdf
+		https://are.berkeley.edu/~fally/Courses/Econ181Lecture2a.pdf
+
+CS381:
+
+	1. csce411-set4
+		https://people.engr.tamu.edu/andreas-klappenecker/csce411-f17/csce411-set4.pdf
+
+	2. Search an element in a sorted and rotated array - GeeksforGeeks
+		https://www.geeksforgeeks.org/search-an-element-in-a-sorted-and-pivoted-array/
+
+	3. Dynamic-Programming/Java/src at main · LuizGuerra/Dynamic-Programming
+		https://github.com/LuizGuerra/Dynamic-Programming/tree/main/Java/src
+
+	4. ClosestPair.pdf
+		https://sites.cs.ucsb.edu/~suri/cs235/ClosestPair.pdf
+
+	5. My Favorite Algorithm: Linear Time Median Finding
+		https://rcoh.me/posts/linear-time-median-finding/
+
+	6. https://web.stanford.edu/class/archive/cs/cs161/cs161.1138/handouts/120 Guide to Greedy Algorithms.pdf
+		https://web.stanford.edu/class/archive/cs/cs161/cs161.1138/handouts/120%20Guide%20to%20Greedy%20Algorithms.pdf
+
+	7. dijkstra-proof.pdf
+		https://web.engr.oregonstate.edu/~glencora/wiki/uploads/dijkstra-proof.pdf
+
+	8. Maximum flow Tutorials &amp; Notes | Algorithms | HackerEarth
+		https://www.hackerearth.com/practice/algorithms/graphs/maximum-flow/tutorial/
+
+Productivity:
+
+	1. Kobe on Waking Up Early - YouTube
+		https://www.youtube.com/watch?v=UcccU3Pyj3k
+
+	2. Smallpdf - Edit, Compress and Convert PDF - Chrome Web Store
+		https://chrome.google.com/webstore/detail/smallpdf-edit-compress-an/ohfgljdgelakfkefopgklcohadegdpjf
+
+	3. Data Science Real World Projects in Python | Udemy
+		https://www.udemy.com/course/data-science-real-world-projects-in-python-x/
+
+	4. Learn Machine Learning: 10 Projects In Finance &amp; Health Care | Udemy
+		https://www.udemy.com/course/learn-machine-learning-projects-in-finance-health-care/
+
+	5. 1NF, 2NF, 3NF and BCNF in Database Normalization | Studytonight
+		https://www.studytonight.com/dbms/database-normalization.php
+
+	6. Jobs &amp; Internships for College Students and Recent Grads | WayUp
+		https://www.wayup.com/
+
+	7. Amazon.com : MaxKare Power Tower Pull Up Bar Dip Station Strength Training Workout Equipment for Professional Home Gym with 420 Lbs Capacity - Valentines Day Gifts for Him : Sports &amp; Outdoors
+		https://www.amazon.com/MaxKare-Professional-Strength-Training-Equipment/dp/B0849KVKTD/ref=sr_1_12?crid=240IDNBKZ90JM&dchild=1&keywords=lianxin+home+gym&qid=1613359046&sprefix=lianxin+home+g%2Csporting%2C162&sr=8-12#customerReviews
+
+	8. Deep Dive Study Guide On Decision Making: Decisive (Making Tough Decisions And Overcoming Bias and Emotion) | LinkedIn
+		https://www.linkedin.com/pulse/deep-dive-study-guide-decision-making-decisive-tough-decisions-usman/
+
+	9. Grit and Resilience: The Self-Help vs. Islamic Perspective — ibnabeeomar
+		https://www.ibnabeeomar.com/blog/grit-and-resilience-the-self-help-vs-islamic-perspective
+
+	10. Why Speaking Well of Your Spouse Is So Important
+		https://michaelhyatt.com/why-speaking-well-of-your-spouse-is-so-important/
+
+	11. Make Yourself Great Again
+		https://begreat.me/login
+
+	12. Remotehour Paid Call - Receive calls, get paid | Product Hunt
+		https://www.producthunt.com/posts/remotehour-paid-call
+
+CS448:
+
+	1. Dependency Preservation
+		https://www.cse.cuhk.edu.hk/~taoyf/course/bmeg3120/notes/fd-preserve.pdf
+
+	2. Functional Dependency and Attribute Closure - GeeksforGeeks
+		https://www.geeksforgeeks.org/functional-dependency-and-attribute-closure/
+
+	3. Closure of Functional Dependency | DBMS Tutorial | Minigranth
+		https://minigranth.in/dbms-tutorial/closure-of-functional-dependency#:~:text=The%20Closure%20Of%20Functional%20Dependency,%E2%80%9C%7BF%7D%2B%E2%80%9D.
+
+	4. Super key in DBMS
+		https://beginnersbook.com/2015/04/super-key-in-dbms/
+
+	5. Boyce-Codd Normal Form (BCNF) - GeeksforGeeks
+		https://www.geeksforgeeks.org/boyce-codd-normal-form-bcnf/
+
+	6. The Noble Quran | Quran.com
+		https://quran.com/4:85/tafsirs/en-tafsir-maarif-ul-quran
+
+	7. VNC from Mac to Linux – Computer Action Team
+		https://cat.pdx.edu/platforms/mac/remote-access/vnc-to-linux/
+
+	8. ‎Microsoft Remote Desktop on the Mac App Store
+		https://apps.apple.com/us/app/microsoft-remote-desktop/id1295203466?mt=12
+
+	9. LRU Cache Implementation - GeeksforGeeks
+		https://www.geeksforgeeks.org/lru-cache-implementation/
+
+	10. Database Buffer - javatpoint
+		https://www.javatpoint.com/database-buffer
+
+	11. pinned block — oracle-tech
+		https://community.oracle.com/tech/developers/discussion/449848/pinned-block
+
+	12. How to calculate time difference in java? - Stack Overflow
+		https://stackoverflow.com/questions/4927856/how-to-calculate-time-difference-in-java
+
+	13. Database System Concepts - Practice Exercises
+		https://www.db-book.com/db7/Practice-Exercises/index-solu.html
+
+	14. Microsoft PowerPoint - E- Decomposition [Compatibility Mode]
+		https://fac.ksu.edu.sa/sites/default/files/E-%20Decomposition.pdf
+
+	15. Microsoft PowerPoint - lecture16 [Compatibility Mode]
+		https://courses.cs.vt.edu/~cs4604/Fall08/lectures/lecture16.pdf
+
+	16. SQL Course Prices | LearnSQL.com
+		https://learnsql.com/pricing
+
+	17. Nested-Loop Join Algorithm - javatpoint
+		https://www.javatpoint.com/nested-loop-join-algorithm#:~:text=Block%20Nested%2DLoop%20Join%20is,entire%20relation%20into%20the%20memory
+
+	18. BEST SQL JOINS DESCRIPTION
+		https://www.sqlshack.com/sql-join-overview-and-tutorial/
+
+	19. midsol.dvi
+		https://www.cs.purdue.edu/homes/clifton/cs541/midsol.pdf
+
+	20. midterm_win20_sol.pdf
+		http://web.stanford.edu/class/cs245/exams/midterm_win20_sol.pdf
+
+	21. Intro Query Cost Calc
+		https://www.cs.purdue.edu/homes/clifton/cs44800/QueryProcSelect.pdf
+
+	22. Joins Intro
+		https://www.cs.purdue.edu/homes/clifton/cs44800/QueryProcSortJoin.pdf
+
+	23. Mid1Sol.pdf
+		https://www.cs.purdue.edu/homes/clifton/cs44800/Mid1Sol.pdf
+
+	24. B+ Trees
+		https://www.cs.purdue.edu/homes/clifton/cs44800/BTrees.pdf
+
+	25. CMU 15-445/645 Database Systems (Fall 2018) :: Two-Phase Locking
+		https://15445.courses.cs.cmu.edu/fall2018/slides/17-twophaselocking.pdf
+
+	26. DBMS View Serializability
+		https://beginnersbook.com/2018/12/dbms-view-serializability/
+
+	27. bk.dvi
+		https://www.db-book.com/db7/Practice-Exercises/PDF-practice-solu-dir/18.pdf#page=6
+
+Flutter:
+
+	1. GitHub - JideGuru/FlutterSocialAppUIKit: Flutter representation of a Social App Concept.
+		https://github.com/JideGuru/FlutterSocialAppUIKit
+
+	2. Android Kotlin SDK for Chat Messaging
+		https://getstream.io/chat/sdk/android/
+
+Workouts/Diet:
+
+	1. Next Level Diet | Dietarize | Your Own Diet Assistant
+		https://www.nextleveldiet.net/
+
+	2. Father of a Queen👑 on Twitter: &quot;Dear fathers, Advice from one father to another: 1. Teach your children from a young age that some body-parts are PRIVATE. No one is permitted to touch or look at them and they have every right to say NO. THREAD.&quot; / Twitter
+		https://twitter.com/Father2AQueen/status/1274326669248139264
+
+	3. Shaun King Called Out On Twitter For Insentive Piece About Samaria Rice | 106.7 WTLC
+		https://wtlcfm.com/playlist/shaun-king-samaria-rice/item/9
+
+	4. Samaria Rice rebukes Tamika Mallory, others ‘benefitting off the blood’ of police brutality victims - cleveland.com
+		https://www.cleveland.com/news/2021/03/samaria-rice-rebukes-tamika-mallory-others-benefitting-off-the-blood-of-police-brutality-victims.html
+
+	5. Al-ʻIjliyyah - Wikipedia
+		https://en.wikipedia.org/wiki/Al-%CA%BBIjliyyah
+
+	6. Works | MindBuffer
+		https://mindbuffer.net/studio
+
+Jobs:
+
+	1. Summer 2021 IoT Software Developer Intern in Austin, TX at ClearBlade • Austin • Remote (Work from Home) | AngelList Talent
+		https://angel.co/company/clearblade/jobs/465075-summer-2021-iot-software-developer-intern-in-austin-tx
+
+	2. The Six Morning Habits of High Performers
+		https://www.linkedin.com/learning/the-six-morning-habits-of-high-performers
+
+Python:
+
+	1. ImportError in system pip wrappers after an upgrade · Issue #5599 · pypa/pip
+		https://github.com/pypa/pip/issues/5599
+
+	2. How to Send Beautiful Emails With Python — The Essential Guide | by Dario Radečić | Towards Data Science
+		https://towardsdatascience.com/how-to-send-beautiful-emails-with-python-the-essential-guide-a01d00c80cd0
+
+	3. Sending Emails With Python – Real Python
+		https://realpython.com/python-send-email/
+
+	4. python 3.x - Visual Studio Code, pylint complaining about &quot;Unable to import XXX&quot; - Stack Overflow
+		https://stackoverflow.com/questions/53007966/visual-studio-code-pylint-complaining-about-unable-to-import-xxx
+
+	5. Would it be possible to run a Python script entirely in Google Chrome, for example like tampermonkey does with javascript? : Python
+		https://www.reddit.com/r/Python/comments/39qu3n/would_it_be_possible_to_run_a_python_script/
+
+	6. Automate the Boring Stuff with Python
+		https://automatetheboringstuff.com/2e/chapter14/
+
+	7. Python script to do something at the same time every day - Stack Overflow
+		https://stackoverflow.com/questions/15088037/python-script-to-do-something-at-the-same-time-every-day
+
+	8. schedule · PyPI
+		https://pypi.org/project/schedule/
+
+	9. Examples — schedule 1.1.0 documentation
+		https://schedule.readthedocs.io/en/stable/examples.html#use-a-decorator-to-schedule-a-job
+
+EAPS:
+
+	1. The Cambrian explosion was far shorter than thought | Natural History Museum
+		https://www.nhm.ac.uk/discover/news/2019/february/the-cambrian-explosion-was-far-shorter-than-thought.html
+
+	2. The Cambrian Period
+		https://ucmp.berkeley.edu/cambrian/cambrian.php
+
+Food:
+
+	1. Chicken Shawarma| IslamicFinder
+		https://www.islamicfinder.org/news/suhoor-recipe-chicken-shawarma/
+
+	2. Broccoli Lemon Chicken with Cashews| IslamicFinder
+		https://www.islamicfinder.org/news/iftar-recipe-broccoli-lemon-chicken-with-cashews/
+
