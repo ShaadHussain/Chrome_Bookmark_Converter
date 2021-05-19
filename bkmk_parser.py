@@ -1,13 +1,26 @@
-orig_bkmks = open("bookmarks_5_15_21.html", "r")
-# orig_bkmks = open("bkmks_ex.html", "r")
+import sys
+
+
+print("Sys argv 0")
+print(sys.argv[1])
+print("Sys argv 1")
+# print(sys.argv[2])
+
+
+
+# orig_bkmks = open("bookmarks_5_15_21.html", "r")
+# new_bkmks = open("new_bkmks.txt","a") #append mode
+
+#Command should be:
+# python3 bkmk_parser.py path_to_orig_bkmks_html path_to_file_to_convert_to
+#  /Users/shaadhussain/Desktop/PersonalProjects/Bookmark_Parser/new_bkmks.txt
+#
+orig_bkmks = open(sys.argv[1], "r") #opening read mode
 new_bkmks = open("new_bkmks.txt","a") #append mode
 
 
-line2 = orig_bkmks.readline()
-print("Line 2")
-print(line2)
-
 bkmk_ct = 1
+
 for line in orig_bkmks:
     #Parsing titles
     sample = line[0:16]
@@ -22,6 +35,7 @@ for line in orig_bkmks:
         bkmk_ct = 1        
         # print(line)
 
+    #Parsing a link
     elif "<DT><A HREF" in line:
         line = line.strip()
         line = line[8:]
@@ -36,4 +50,3 @@ for line in orig_bkmks:
         new_bkmks.write("\t\t" + link_str + "\n\n")
 
         bkmk_ct = bkmk_ct + 1
-        # print(line)
